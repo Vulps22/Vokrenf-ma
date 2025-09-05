@@ -1,0 +1,43 @@
+---
+name: "Grammar Rule Proposal"
+description: "Propose a new grammar rule or a change to an existing rule."
+title: "[Grammar] <Short description>"
+labels: [grammar-proposal]
+body:
+  - type: input
+    id: rule_title
+    attributes:
+      label: Rule Title
+      description: Short name for the rule or change.
+      required: true
+  - type: textarea
+    id: rule_description
+    attributes:
+      label: Rule Description
+      description: Clearly describe the new rule or the change to an existing rule.
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Examples
+      description: Provide example sentences or scenarios illustrating the rule.
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Why is this rule needed or why should it be changed?
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References/Related Rules
+      description: (Optional) Link to related rules or previous discussions.
+      required: false
+  - type: textarea
+    id: discussion
+    attributes:
+      label: Discussion/Notes
+      description: (Optional) Open for community input, alternatives, etc.
+      required: false
+---

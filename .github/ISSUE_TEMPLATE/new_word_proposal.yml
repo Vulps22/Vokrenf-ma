@@ -1,0 +1,60 @@
+---
+name: "New Word Proposal"
+description: "Propose a new Vokrenfōma word (dūn or dūnma) for the lexicon."
+title: "[dūn/dūnma] <English equivalent>"
+labels: [word-proposal]
+body:
+  - type: dropdown
+    id: word_type
+    attributes:
+      label: Word Type
+      description: Is this a base word (dūn) or a compound (dūnma)?
+      options:
+        - dūn
+        - dūnma
+      required: true
+  - type: input
+    id: proposed_word
+    attributes:
+      label: Proposed Vokrenfōma Word
+      description: The new word, with IPA if possible.
+      placeholder: e.g. namlok (/nɑm.lɔːk/)
+      required: true
+  - type: input
+    id: english_equivalent
+    attributes:
+      label: English Equivalent
+      description: The intended meaning or translation.
+      required: true
+  - type: textarea
+    id: breakdown
+    attributes:
+      label: Breakdown (for dūnma)
+      description: For dūnma, list the dūn components and their meanings. For dūn, write N/A.
+      placeholder: e.g. nam (eat) + lok (place)
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Why is this word needed? What is the cultural or semantic context?
+      required: true
+  - type: textarea
+    id: usage_examples
+    attributes:
+      label: Usage Examples
+      description: (Optional) Example sentences using the new word.
+      required: false
+  - type: textarea
+    id: references
+    attributes:
+      label: References/Related Words
+      description: (Optional) Link to similar or root words, if any.
+      required: false
+  - type: textarea
+    id: discussion
+    attributes:
+      label: Discussion/Notes
+      description: (Optional) Open for community input, alternatives, etc.
+      required: false
+---
