@@ -13,4 +13,4 @@
 - 
 
 ## History
-- 
+- Fun fact: ren is not actually a dūn in Vokrenfōma, thanks to what is suspected to be a spelling mistake that led to the formation of the word [ret](../dūn/ret.md) early in the language's evolution.
