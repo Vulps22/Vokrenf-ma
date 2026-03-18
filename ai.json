@@ -138,6 +138,7 @@
     ],
     "dūnma": [
       {"word": "namlok", "ipa": "/nɑm.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
+      {"word": "namret", "ipa": "/nɑm.rɛt/", "english": "food", "components": ["nam=eat", "ret=thing"]},
       {"word": "namlokat", "ipa": "/nɑm.lɔː.kɑt/", "english": "eatery, restaurant", "components": ["nam=eat", "lok=place", "at=commercial"]},
       {"word": "kentan", "ipa": "/ˈkɛn.tɑn/", "english": "When?", "components": ["ken=question", "tan=time"]},
       {"word": "kenlok", "ipa": "/ˈkɛn.lɔːk/", "english": "Where?", "components": ["ken=question", "lok=place"]},

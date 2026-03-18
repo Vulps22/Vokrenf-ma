@@ -53,6 +53,7 @@
 | Vokrenfōma | IPA | English |
 | :---- | :---- | :---- |
 | [namlok](./dūnma/namlok.md) | /nɑm.lɔːk/ | kitchen (eat-place) |
+| [namret](./dūnma/namret.md) | /nɑm.rɛt/ | food (eat-thing) |
 | [namlokat](./dūnma/namlokat.md) | /nɑm.lɔː.kɑt/ | eatery (eat-place-commercial) |
 | [kentan](./dūnma/kentan.md) | /ˈkɛn.tɑn/ | When? |
 | [kenlok](./dūnma/kenlok.md) | /ˈkɛn.lɔːk/ | Where? |
