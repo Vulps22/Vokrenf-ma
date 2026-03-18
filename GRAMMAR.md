@@ -32,6 +32,13 @@
   * At the beginning of a sentence, they indicate the speaker's preference:  
     * ná ... \= Don't want / Dislike (e.g., ná ik un kahn \= I don't want to go).  
     * ja ... \= Want / Like (e.g., ja ik un kahn \= I want to go).  
+* **Phonology note — ī:** The vowel ī represents /ɪ/, the short "ih" sound as in the English word "did." This is distinct from i /iː/ ("ee"). ī was introduced with klīv and is available for future use.
+* **Voice (Valency Operators):** Voice markers indicate how the clause's arguments are structured. All voice markers in Vokrenfōma share the kl- onset, forming a closed set of five:
+  * klah — Causative: adds a causer; the new subject causes the original subject to perform the action.
+  * klet — Passive: demotes the agent; the patient becomes the subject.
+  * klīv — Reflexive: the subject acts upon itself (agent = patient).
+  * klon — Reciprocal: subjects act upon each other mutually.
+  * klūt — Applicative: adds a beneficiary or instrument argument to the clause.
 * **Questions:**  
   * General Questions: Start the sentence with ken (e.g., oc̄ un ta kahn? \= Did you go?).  
   * Specific Questions: Start with ken \+ the relevant question word:  

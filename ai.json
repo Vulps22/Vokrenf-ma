@@ -49,6 +49,20 @@
         "ja": "Want / Like. e.g. ja ik un kahn = I want to go."
       }
     },
+    "phonology_notes": {
+      "ī": "Vowel ī represents /ɪ/, the short 'ih' sound as in English 'did'. Distinct from i /iː/ ('ee'). Introduced with klīv."
+    },
+    "voice": {
+      "description": "Voice markers alter the argument structure of a clause. All share the kl- onset, forming a closed set.",
+      "convention": "kl- onset is reserved for valency-changing operators.",
+      "markers": {
+        "klah": "Causative. Adds a causer — the new subject causes the original subject to perform the action.",
+        "klet": "Passive. Demotes the agent; the patient becomes the subject.",
+        "klīv": "Reflexive. The subject acts upon itself (agent = patient).",
+        "klon": "Reciprocal. Subjects act upon each other mutually.",
+        "klūt": "Applicative. Adds a beneficiary or instrument argument to the clause."
+      }
+    },
     "questions": {
       "general": "Start sentence with ken. e.g. ken oc̄ un ta kahn? = Did you go?",
       "specific": {
@@ -98,6 +112,11 @@
       {"word": "ná", "ipa": "/njɑ/", "english": "negative polarity/preference marker"},
       {"word": "ja", "ipa": "/dʒɑ/", "english": "positive polarity/preference marker"},
       {"word": "ken", "ipa": "/kɛn/", "english": "general question marker"},
+      {"word": "klah", "ipa": "/klɑ/", "english": "causative voice marker"},
+      {"word": "klet", "ipa": "/klɛt/", "english": "passive voice marker"},
+      {"word": "klīv", "ipa": "/klɪv/", "english": "reflexive voice marker"},
+      {"word": "klon", "ipa": "/klɒn/", "english": "reciprocal voice marker"},
+      {"word": "klūt", "ipa": "/kluːt/", "english": "applicative voice marker"},
       {"word": "nūl", "ipa": "/nuːl/", "english": "0"},
       {"word": "rif", "ipa": "/riːf/", "english": "2"},
       {"word": "sol", "ipa": "/zɔːl/", "english": "3"},

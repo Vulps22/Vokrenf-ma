@@ -24,6 +24,11 @@
 | [ná](./dūn/ná.md) | /njɑ/ | Negative polarity/preference marker |
 | [ja](./dūn/ja.md) | /dʒɑ/ | Positive polarity/preference marker |
 | [ken](./dūn/ken.md) | /kɛn/ | General question marker |
+| [klah](./dūn/klah.md) | /klɑ/ | Causative voice marker |
+| [klet](./dūn/klet.md) | /klɛt/ | Passive voice marker |
+| [klīv](./dūn/klīv.md) | /klɪv/ | Reflexive voice marker |
+| [klon](./dūn/klon.md) | /klɒn/ | Reciprocal voice marker |
+| [klūt](./dūn/klūt.md) | /kluːt/ | Applicative voice marker |
 | [nūl](./dūn/nūl.md) | /nuːl/ | 0 |
 | [rif](./dūn/rif.md) | /riːf/ | 2 |
 | [sol](./dūn/sol.md) | /zɔːl/ | 3 |
