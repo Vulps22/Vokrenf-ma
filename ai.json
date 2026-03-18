@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "name": "Vokrenfōma",
+    "type": "constructed_language",
+    "description": "Official constructed language repository. Community-driven, open-source. Only words and rules in this repository are considered official Vokrenfōma.",
+    "copyright": "© 2025 Vulps22",
+    "license": "Free use for any purpose including creative and commercial. Modified versions may not be distributed under the Vokrenfōma name. All proposed changes must be submitted via the contribution process."
+  },
+  "grammar": {
+    "word_order": "SVO (Subject-Verb-Object)",
+    "word_types": {
+      "dūn": "Base word. Single syllable. Fundamental building block.",
+      "dūnma": "Compound word. Two or more dūn combined. First dūn establishes type, subsequent dūn add context. Last dūn called 'context', usually represented in English with parentheses, e.g. namlok = eat(place)."
+    },
+    "perspective": {
+      "rule": "Third-person only. No direct equivalents for I/we/you. Use demonstratives and number markers instead.",
+      "demonstratives": {"ik": "this", "oc̄": "that"},
+      "number_markers": {"un": "one (singular)", "ma": "lot/group (plural)"},
+      "pronouns": {
+        "I": "ik un",
+        "we": "ik ma",
+        "you_singular": "oc̄ un",
+        "you_plural": "oc̄ ma"
+      }
+    },
+    "nouns": {
+      "singular": "Noun alone is singular. e.g. namlok = kitchen.",
+      "plural": "Add 'ma' after noun. e.g. namlok ma = kitchens.",
+      "specific_number": "Add number word after noun. e.g. namlok rif = two kitchens.",
+      "emphatic_singular": "Add 'un' after noun. e.g. namlok un = one single kitchen.",
+      "possession": "Possessor phrase before noun. e.g. ik un namlok = my kitchen; em ma ret ma = the people's things."
+    },
+    "verbs": {
+      "person_agreement": "None. Verbs do not change based on subject.",
+      "tense": {
+        "present_standard": "No marker. e.g. ik un kahn = I go.",
+        "present_formal": "tō before verb. e.g. ik un tō kahn = I go (formally).",
+        "past": "ta before verb. e.g. ik un ta kahn = I went.",
+        "future": "ti before verb. e.g. ik un ti kahn = I will go."
+      }
+    },
+    "polarity_preference": {
+      "end_of_sentence": {
+        "ná": "False / Bad. e.g. namlokat ná = The eatery is bad.",
+        "ja": "True / Good. e.g. namlokat ja = The eatery is good."
+      },
+      "start_of_sentence": {
+        "ná": "Don't want / Dislike. e.g. ná ik un kahn = I don't want to go.",
+        "ja": "Want / Like. e.g. ja ik un kahn = I want to go."
+      }
+    },
+    "questions": {
+      "general": "Start sentence with ken. e.g. ken oc̄ un ta kahn? = Did you go?",
+      "specific": {
+        "kentan": "When?",
+        "kenlok": "Where?",
+        "kenem": "Who?",
+        "kenret": "What?",
+        "kenlū": "Why?",
+        "kenfō": "How?",
+        "example": "kenem ti kahn? = Who will go?"
+      }
+    },
+    "numbers": {
+      "cardinal_quantity": "Number word placed after noun. e.g. namlok rif = two kitchens. Also used to name spans of time.",
+      "ordinal_order": "Number word placed before noun. e.g. sol nōksolnūl = the third month.",
+      "compound_time_examples": {
+        "nilnōk": "seven-day = week",
+        "pahunnūl": "year-ten = decade"
+      },
+      "examples": {
+        "pah unnūl": "Noun+Number. ten years (quantity).",
+        "unnūl pah": "Number+Noun. the tenth year (ordinal).",
+        "pahunnūl": "Noun+Number fused. decade (named span)."
+      }
+    }
+  },
+  "lexicon": {
+    "dūn": [
+      {"word": "em", "ipa": "/ɛm/", "english": "person"},
+      {"word": "fō", "ipa": "/foʊ/", "english": "manner, way"},
+      {"word": "kahn", "ipa": "/kɑ˞n/", "english": "go, travel, approach"},
+      {"word": "lok", "ipa": "/lɔːk/", "english": "place"},
+      {"word": "lū", "ipa": "/luː/", "english": "reason"},
+      {"word": "nam", "ipa": "/nɑm/", "english": "eat"},
+      {"word": "nar", "ipa": "/nɑr/", "english": "billion (10⁹)"},
+      {"word": "ret", "ipa": "/rɛt/", "english": "thing"},
+      {"word": "s̄an", "ipa": "/sɑn/", "english": "hundred (10²)"},
+      {"word": "tan", "ipa": "/tɑn/", "english": "time"},
+      {"word": "tor", "ipa": "/tɔːr/", "english": "thousand (10³)"},
+      {"word": "ik", "ipa": "/iːk/", "english": "this (demonstrative)"},
+      {"word": "oc̄", "ipa": "/ɒx/", "english": "that (demonstrative)"},
+      {"word": "un", "ipa": "/ʌn/", "english": "one, singularity marker, number 1"},
+      {"word": "ma", "ipa": "/mɑ/", "english": "lot, group, plurality marker, quantity"},
+      {"word": "ta", "ipa": "/tɑ/", "english": "past tense marker"},
+      {"word": "tō", "ipa": "/toʊ/", "english": "present tense marker (formal)"},
+      {"word": "ti", "ipa": "/tiː/", "english": "future tense marker"},
+      {"word": "ná", "ipa": "/njɑ/", "english": "negative polarity/preference marker"},
+      {"word": "ja", "ipa": "/dʒɑ/", "english": "positive polarity/preference marker"},
+      {"word": "ken", "ipa": "/kɛn/", "english": "general question marker"},
+      {"word": "nūl", "ipa": "/nuːl/", "english": "0"},
+      {"word": "rif", "ipa": "/riːf/", "english": "2"},
+      {"word": "sol", "ipa": "/zɔːl/", "english": "3"},
+      {"word": "lit", "ipa": "/liːt/", "english": "4"},
+      {"word": "mōt", "ipa": "/moʊt/", "english": "5"},
+      {"word": "zōl", "ipa": "/ʒoʊl/", "english": "6"},
+      {"word": "nil", "ipa": "/niːl/", "english": "7"},
+      {"word": "pōl", "ipa": "/poʊl/", "english": "8"},
+      {"word": "fes", "ipa": "/fɛz/", "english": "9"},
+      {"word": "dūn", "ipa": "/duːn/", "english": "base, fundamental word"},
+      {"word": "vok", "ipa": "/vɒk/", "english": "speak, to make sound"},
+      {"word": "vid", "ipa": "/vid/", "english": "see, observe"},
+      {"word": "keb", "ipa": "/kɛb/", "english": "meet, join"},
+      {"word": "tūk", "ipa": "/tuːk/", "english": "knowledge"},
+      {"word": "dūnun", "ipa": "/duːn.un/", "english": "letter", "note": "listed in dūn table but is dūnma: dūn+un"},
+      {"word": "c̄an", "ipa": "/xan/", "english": "change"},
+      {"word": "din", "ipa": "/din/", "english": "action, to act, to do, to perform"},
+      {"word": "kret", "ipa": null, "english": "essential, priority, important"}
+    ],
+    "dūnma": [
+      {"word": "namlok", "ipa": "/nɑm.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
+      {"word": "namlokat", "ipa": "/nɑm.lɔː.kɑt/", "english": "eatery, restaurant", "components": ["nam=eat", "lok=place", "at=commercial"]},
+      {"word": "kentan", "ipa": "/ˈkɛn.tɑn/", "english": "When?", "components": ["ken=question", "tan=time"]},
+      {"word": "kenlok", "ipa": "/ˈkɛn.lɔːk/", "english": "Where?", "components": ["ken=question", "lok=place"]},
+      {"word": "kenem", "ipa": "/ˈkɛn.ɛm/", "english": "Who?", "components": ["ken=question", "em=person"]},
+      {"word": "kenret", "ipa": "/ˈkɛn.rɛt/", "english": "What?", "components": ["ken=question", "ret=thing"]},
+      {"word": "kenlū", "ipa": "/ˈkɛn.luː/", "english": "Why?", "components": ["ken=question", "lū=reason"]},
+      {"word": "kenfō", "ipa": "/ˈkɛn.foʊ/", "english": "How?", "components": ["ken=question", "fō=manner"]},
+      {"word": "unūl", "ipa": "/ˈʌ.nuːl/", "english": "10", "components": ["un=one", "ūl=ten"]},
+      {"word": "unun", "ipa": "/ˈʌn.ʌn/", "english": "11", "components": ["un=one", "un=one"]},
+      {"word": "unrif", "ipa": "/ˈʌn.riːf/", "english": "12", "components": ["un=one", "rif=two"]},
+      {"word": "rifnūl", "ipa": "/ˈriːf.nuːl/", "english": "20", "components": ["rif=two", "nūl=zero"]},
+      {"word": "rifun", "ipa": "/ˈriːf.ʌn/", "english": "21", "components": ["rif=two", "un=one"]},
+      {"word": "sollit", "ipa": "/ˈsɔːl.liːt/", "english": "34", "components": ["sol=three", "lit=four"]},
+      {"word": "nilpōl", "ipa": "/ˈniːl.poʊl/", "english": "78", "components": ["nil=seven", "pōl=eight"]},
+      {"word": "s̄anrif", "ipa": "/ˈzɑn.riːf/", "english": "200", "components": ["s̄an=hundred", "rif=two"]},
+      {"word": "tormōt", "ipa": "/ˈtɔːr.moʊt/", "english": "5000", "components": ["tor=thousand", "mōt=five"]},
+      {"word": "torunūl", "ipa": "/tɔːr.ˈʌ.nuːl/", "english": "10000", "components": ["tor=thousand", "unūl=ten"]},
+      {"word": "torsan", "ipa": "/ˈtɔːr.zɑn/", "english": "100000", "components": ["tor=thousand", "s̄an=hundred"]},
+      {"word": "tortor", "ipa": "/ˈtɔːr.tɔːr/", "english": "million (10⁶)", "components": ["tor=thousand", "tor=thousand"]},
+      {"word": "nartor", "ipa": "/nɑr.tɔːr/", "english": "trillion (10¹²)", "components": ["nar=billion", "tor=thousand"]},
+      {"word": "narnar", "ipa": "/nɑr.nɑr/", "english": "quintillion (10¹⁸)", "components": ["nar=billion", "nar=billion"]},
+      {"word": "dūnma", "ipa": "/duːn.ma/", "english": "compound words", "components": ["dūn=base", "ma=group"]},
+      {"word": "vokrenfōma", "ipa": "/vɒk.rɛt.foʊ.mɑ/", "english": "language (Vokrenfōma)", "components": ["vok=speak", "ren=unknown (likely ret spelling error)", "fō=manner", "ma=group"], "note": "ren is not an official dūn; suspected spelling mistake of ret from early language evolution"},
+      {"word": "vokret", "ipa": "/vɒk.rɛt/", "english": "word", "components": ["vok=speak", "ret=thing"]},
+      {"word": "jakebem", "ipa": "/dʒɑ.kɛb.ɛm/", "english": "hello", "components": ["ja=good", "keb=meet", "em=person"]},
+      {"word": "nákebem", "ipa": "/njɑ.kɛb.ɛm/", "english": "goodbye", "components": ["ná=bad", "keb=meet", "em=person"]},
+      {"word": "voklokret", "ipa": "/vɒk.lɔːk.rɛt/", "english": "stage (speak-place-thing)", "components": ["vok=speak", "lok=place", "ret=thing"]},
+      {"word": "lokvoktūk", "ipa": "/lɔːk.vɒk.tuːk/", "english": "place of learning", "components": ["lok=place", "vok=speak", "tūk=knowledge"]},
+      {"word": "dūntan", "ipa": "/duːn.tan/", "english": "tense (word-time)", "components": ["dūn=word", "tan=time"]},
+      {"word": "dūnfō", "ipa": "/duːn.foʊ/", "english": "grammar (word-manner)", "components": ["dūn=word", "fō=manner"]},
+      {"word": "dūndin", "ipa": "/din.duːn/", "english": "noun (word(action))", "components": ["dūn=word", "din=action"]},
+      {"word": "dinja", "ipa": "/din.dʒɑ/", "english": "well done (act-good)", "components": ["din=act", "ja=good"]},
+      {"word": "retlokdintūk", "ipa": null, "english": "desk (furniture(knowledge))", "components": ["ret=thing", "lok=place", "din=action", "tūk=knowledge"]},
+      {"word": "retlokdin", "ipa": null, "english": "furniture (thing-place-action)", "components": ["ret=thing", "lok=place", "din=action"]},
+      {"word": "kahnret", "ipa": null, "english": "retrieve (approach-thing)", "components": ["kahn=approach", "ret=thing"]},
+      {"word": "dintan", "ipa": null, "english": "frequency, occurrence, commonality", "components": ["din=act", "tan=time"]},
+      {"word": "jadintan", "ipa": null, "english": "high frequency, commonality (positive)", "components": ["ja=good", "din=act", "tan=time"]},
+      {"word": "nádintan", "ipa": null, "english": "low frequency, commonality (negative)", "components": ["ná=bad", "din=act", "tan=time"]}
+    ]
+  },
+  "contribution": {
+    "new_word": {
+      "process": "Open GitHub issue using 'New Word Proposal' template. Title format: '[dūn/dūnma] <English equivalent>'. Fields: word type, proposed word with IPA, English meaning, component breakdown (if dūnma), justification, usage examples, references. Discuss in issue thread until consensus. Maintainer integrates approved proposals."
+    },
+    "grammar_rule": {
+      "process": "Open GitHub issue using 'Grammar Rule Proposal' template. Title format: '[Grammar] <Short description>'. Fields: rule description, examples, justification, references. Discuss until consensus. Maintainer integrates."
+    },
+    "dialect": {
+      "phase1": "Open GitHub issue using 'Dialect Proposal' template. Outline core principles, purpose, examples of changes. Community discussion. Maintainer approval required.",
+      "phase2": "After approval, a permanent branch is created (e.g. dialect-high-vokrenfoma). Fork repo, create branch from dialect branch, submit PR to dialect branch (not main)."
+    },
+    "guidelines": [
+      "Check for existing similar words/rules before proposing.",
+      "All discussion must happen in issue thread before PR.",
+      "Use provided templates for consistency.",
+      "Commit messages link back to originating issue."
+    ]
+  },
+  "word_formation_rules": {
+    "dūnma_construction": "First dūn = type/category. Each subsequent dūn = added context/specificity. Final dūn = 'context', shown in parentheses in English translation.",
+    "examples": [
+      {"phrase": "nam + lok = namlok", "meaning": "eat + place = kitchen (eat-place)"},
+      {"phrase": "nam + lok + at = namlokat", "meaning": "eat + place + commercial = eatery (eat-place-commercial)"},
+      {"phrase": "ja + keb + em = jakebem", "meaning": "good + meet + person = hello (good-meeting-person)"}
+    ],
+    "pluralization": "Append 'ma' after any noun.",
+    "number_system": {
+      "pattern": "Multi-digit numbers concatenate digit/place-value dūn. e.g. rif+nūl = 20 (two-zero), tor+mōt = 5000 (thousand-five).",
+      "scale_words": {"un": 1, "rif": 2, "sol": 3, "lit": 4, "mōt": 5, "zōl": 6, "nil": 7, "pōl": 8, "fes": 9, "nūl": 0, "unūl": 10, "s̄an": 100, "tor": 1000, "tortor": 1000000, "nar": 1000000000, "nartor": 1000000000000, "narnar": 1e18}
+    }
+  }
+}
