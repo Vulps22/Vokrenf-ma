@@ -86,3 +86,7 @@
 | [dintan](./dūnma/dintan.md) |  | frequency/occurence/commonality |
 | [jadintan](./dūnma/jadintan.md) |  | commonality(positve)/ high frequency |
 | [nádintan](./dūnma/nádintan.md) |  | commonality(negative)/low frequency |
+| [keblok](./dūnma/keblok.md) | /kɛb.lɔːk/ | link/hyperlink (join-place) |
+| [retvokret](./dūnma/retvokret.md) | /rɛt.vɒk.rɛt/ | description (thing-word) |
+| [rettan](./dūnma/rettan.md) | /rɛt.tɑn/ | experience (thing-time) |
+| [jarettan](./dūnma/jarettan.md) | /dʒɑ.rɛt.tɑn/ | enjoyment (good-experience) |

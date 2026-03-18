@@ -156,7 +156,11 @@
       {"word": "kahnret", "ipa": null, "english": "retrieve (approach-thing)", "components": ["kahn=approach", "ret=thing"]},
       {"word": "dintan", "ipa": null, "english": "frequency, occurrence, commonality", "components": ["din=act", "tan=time"]},
       {"word": "jadintan", "ipa": null, "english": "high frequency, commonality (positive)", "components": ["ja=good", "din=act", "tan=time"]},
-      {"word": "nádintan", "ipa": null, "english": "low frequency, commonality (negative)", "components": ["ná=bad", "din=act", "tan=time"]}
+      {"word": "nádintan", "ipa": null, "english": "low frequency, commonality (negative)", "components": ["ná=bad", "din=act", "tan=time"]},
+      {"word": "keblok", "ipa": "/kɛb.lɔːk/", "english": "link, hyperlink", "components": ["keb=join", "lok=place"]},
+      {"word": "retvokret", "ipa": "/rɛt.vɒk.rɛt/", "english": "description", "components": ["ret=thing", "vokret=word"]},
+      {"word": "rettan", "ipa": "/rɛt.tɑn/", "english": "experience", "components": ["ret=thing", "tan=time"]},
+      {"word": "jarettan", "ipa": "/dʒɑ.rɛt.tɑn/", "english": "enjoyment", "components": ["ja=good", "rettan=experience"]}
     ]
   },
   "contribution": {
