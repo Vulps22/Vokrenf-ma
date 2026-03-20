@@ -4,6 +4,7 @@ Welcome to the official repository for the Vokrenfōma constructed language.
 
 ## Repository Structure
 
+- **[LETTERING.md](./LETTERING.md):** The official lettering system — all letters, their sounds, and diacritical marks.
 - **[GRAMMAR.md](./GRAMMAR.md):** Complete grammar rules and usage notes for Vokrenfōma.
 - **[LEXICON.md](./LEXICON.md):** The official dictionary, split into:
 	- **dūn:** Base words (single-syllable roots)
