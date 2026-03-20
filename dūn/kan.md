@@ -1,4 +1,4 @@
-# Etymology of kahn
+# Etymology of kan
 
 ## English Translation
 - go, travel, approach

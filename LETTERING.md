@@ -6,7 +6,7 @@ Vokrenfōma uses a Latin-based writing system extended with diacritical marks. T
 
 | Letter | IPA | Sound (approx.) | Example |
 | :----- | :-- | :-------------- | :------ |
-| a | /ɑ/ | "ah" as in *father* | nam, ma, ta |
+| a | /a/ | "a" as in Spanish *casa* | nam, ma, ta |
 | e | /ɛ/ | "eh" as in *bed* | em, ret, ken |
 | i | /iː/ | "ee" as in *see* | ik, ti, rif |
 | ī | /ɪ/ | "ih" as in *did* | klīv |
@@ -23,9 +23,8 @@ Vokrenfōma uses a Latin-based writing system extended with diacritical marks. T
 | c̄ | /x/ | "ch" as in Scottish *loch* | c̄an, oc̄ |
 | d | /d/ | "d" as in *dog* | din, dūn |
 | f | /f/ | "f" as in *fan* | fō, fes |
-| h | — | see notes | kahn, klah |
 | j | /dʒ/ | "j" as in *joy* | ja, jakebem |
-| k | /k/ | "k" as in *key* | kahn, ken, keb |
+| k | /k/ | "k" as in *key* | kan, ken, keb |
 | l | /l/ | "l" as in *let* | lok, lū, lit |
 | m | /m/ | "m" as in *man* | ma, nam, em |
 | n | /n/ | "n" as in *no* | nam, nil, nar |
@@ -54,15 +53,15 @@ Vokrenfōma uses two diacritical marks to create variant letters:
 
 **s and s̄** are two distinct phonemes despite their visual similarity. Plain **s** is voiced /z/; marked **s̄** is voiceless /s/. They are treated as separate letters.
 
-**h** appears in several words but its full phonological rule has not yet been formally specified. In *kahn* /kɑ˞n/ it appears to contribute a rhotic quality to the preceding vowel; in *klah* /klɑ/ it appears word-finally with no recorded phonemic value. This letter warrants a dedicated phonology rule.
-
 **c** does not exist as a standalone letter. Only the marked form **c̄** /x/ is in use.
+
+**ar** — the combination of **a** followed by **r** is r-colored toward /ɑr/, as in *nar* /nɑr/. This is the only context where **a** deviates from its default /a/ value.
 
 ## Letter Inventory
 
 Letters confirmed in use:
 
 * **Vowels:** a, e, i, ī, o, ō, u, ū
-* **Consonants:** b, c̄, d, f, h, j, k, l, m, n, p, r, s, s̄, t, v, z
+* **Consonants:** b, c̄, d, f, j, k, l, m, n, p, r, s, s̄, t, v, z
 
-Letters from the Latin alphabet not yet used in any official word: c (standalone), g, q, w, x, y — and the macron vowel variants ā and ē have not yet been introduced.
+Letters from the Latin alphabet not yet used in any official word: c (standalone), g, h, q, w, x, y — and the macron vowel variants ā and ē have not yet been introduced.

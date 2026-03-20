@@ -1,4 +1,4 @@
-# Etymology of klah
+# Etymology of kla
 
 ## English Translation
 - Causative voice marker

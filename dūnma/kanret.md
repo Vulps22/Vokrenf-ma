@@ -1,13 +1,13 @@
-# Etymology of kahnret
+# Etymology of kanret
 
 ## English Translation
 - Retrieve (approach-thing)
 
 ## Word Type
-- dūnma (multi-syllable: kahn + ret)
+- dūnma (multi-syllable: kan + ret)
 
 ## Breakdown (for dūnma only)
-- kahn (approach) + ret (thing)
+- kan (approach) + ret (thing)
 
 ## Justification
 - 
