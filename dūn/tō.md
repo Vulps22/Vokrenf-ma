@@ -1,5 +1,8 @@
 # Etymology of tō
 
+## IPA
+- /toʊ/
+
 ## English Translation
 - Present tense marker (formal)
 

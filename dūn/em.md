@@ -1,5 +1,8 @@
 # Etymology of em
 
+## IPA
+- /ɛm/
+
 ## English Translation
 - person
 

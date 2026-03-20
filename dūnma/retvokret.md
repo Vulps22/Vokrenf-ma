@@ -1,5 +1,8 @@
 # Etymology of retvokret
 
+## IPA
+- /rɛt.vɒk.rɛt/
+
 ## English Translation
 - description
 

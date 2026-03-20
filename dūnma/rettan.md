@@ -1,5 +1,8 @@
 # Etymology of rettan
 
+## IPA
+- /rɛt.tan/
+
 ## English Translation
 - experience
 

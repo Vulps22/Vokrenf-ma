@@ -1,5 +1,8 @@
 # Etymology of tūk
 
+## IPA
+- /tuːk/
+
 ## English Translation
 - knowledge
 

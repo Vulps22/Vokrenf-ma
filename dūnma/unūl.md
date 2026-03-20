@@ -1,5 +1,8 @@
 # Etymology of unūl
 
+## IPA
+- /ˈʌ.nuːl/
+
 ## English Translation
 - 10
 

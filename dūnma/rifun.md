@@ -1,5 +1,8 @@
 # Etymology of rifun
 
+## IPA
+- /ˈriːf.ʌn/
+
 ## English Translation
 - 21
 

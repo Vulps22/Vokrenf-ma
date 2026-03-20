@@ -1,5 +1,8 @@
 # Etymology of ná
 
+## IPA
+- /nja/
+
 ## English Translation
 - Negative polarity/preference marker
 

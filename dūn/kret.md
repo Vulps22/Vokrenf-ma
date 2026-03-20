@@ -1,5 +1,8 @@
 # Etymology of kret
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - essential/priority/imortant/
 

@@ -1,5 +1,8 @@
 # Etymology of tan
 
+## IPA
+- /tan/
+
 ## English Translation
 - time
 

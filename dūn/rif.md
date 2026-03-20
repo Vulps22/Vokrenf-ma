@@ -1,5 +1,8 @@
 # Etymology of rif
 
+## IPA
+- /riːf/
+
 ## English Translation
 - 2
 

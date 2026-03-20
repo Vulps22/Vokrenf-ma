@@ -1,5 +1,8 @@
 # Etymology of kentan
 
+## IPA
+- /ˈkɛn.tan/
+
 ## English Translation
 - When?
 

@@ -1,5 +1,8 @@
 # Etymology of nilpōl
 
+## IPA
+- /ˈniːl.poʊl/
+
 ## English Translation
 - 78
 

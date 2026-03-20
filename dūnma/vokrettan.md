@@ -1,5 +1,8 @@
 # Etymology of vokrettan
 
+## IPA
+- /vɒk.rɛt.tan/
+
 ## English Translation
 - story (spoken thing through time)
 

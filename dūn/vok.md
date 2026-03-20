@@ -1,5 +1,8 @@
 # Etymology of vok
 
+## IPA
+- /vɒk/
+
 ## English Translation
 - speak/to make sound
 

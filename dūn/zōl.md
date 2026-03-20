@@ -1,5 +1,8 @@
 # Etymology of zōl
 
+## IPA
+- /ʒoʊl/
+
 ## English Translation
 - 6
 

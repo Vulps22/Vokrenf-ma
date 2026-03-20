@@ -1,5 +1,8 @@
 # Etymology of jakebem
 
+## IPA
+- /dʒa.kɛb.ɛm/
+
 ## English Translation
 - hello (good meeting)
 

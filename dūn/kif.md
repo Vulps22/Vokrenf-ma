@@ -1,5 +1,8 @@
 # Etymology of kif
 
+## IPA
+- /kiːf/
+
 ## English Translation
 - duration
 

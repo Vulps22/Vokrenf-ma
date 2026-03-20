@@ -1,5 +1,8 @@
 # Etymology of nar
 
+## IPA
+- /nɑr/
+
 ## English Translation
 - billion (10⁹)
 

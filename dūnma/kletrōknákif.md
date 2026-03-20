@@ -1,5 +1,8 @@
 # Etymology of kletrōknákif
 
+## IPA
+- /klɛt.roʊk.nja.kiːf/
+
 ## English Translation
 - livestream (passively broadcast instantly)
 

@@ -33,10 +33,10 @@
     "verbs": {
       "person_agreement": "None. Verbs do not change based on subject.",
       "tense": {
-        "present_standard": "No marker. e.g. ik un kahn = I go.",
-        "present_formal": "tō before verb. e.g. ik un tō kahn = I go (formally).",
-        "past": "ta before verb. e.g. ik un ta kahn = I went.",
-        "future": "ti before verb. e.g. ik un ti kahn = I will go."
+        "present_standard": "No marker. e.g. ik un kan = I go.",
+        "present_formal": "tō before verb. e.g. ik un tō kan = I go (formally).",
+        "past": "ta before verb. e.g. ik un ta kan = I went.",
+        "future": "ti before verb. e.g. ik un ti kan = I will go."
       }
     },
     "polarity_preference": {
@@ -45,18 +45,19 @@
         "ja": "True / Good. e.g. namlokat ja = The eatery is good."
       },
       "start_of_sentence": {
-        "ná": "Don't want / Dislike. e.g. ná ik un kahn = I don't want to go.",
-        "ja": "Want / Like. e.g. ja ik un kahn = I want to go."
+        "ná": "Don't want / Dislike. e.g. ná ik un kan = I don't want to go.",
+        "ja": "Want / Like. e.g. ja ik un kan = I want to go."
       }
     },
     "phonology_notes": {
+      "a": "Vowel a represents /a/, the open front unrounded vowel — crisp and short, as in Spanish 'casa' or Italian 'pasta'. Not /ɑ/ ('ah') or /æ/ ('cat'). Exception: 'ar' combinations are r-colored toward /ɑr/, as in 'nar'.",
       "ī": "Vowel ī represents /ɪ/, the short 'ih' sound as in English 'did'. Distinct from i /iː/ ('ee'). Introduced with klīv."
     },
     "voice": {
       "description": "Voice markers alter the argument structure of a clause. All share the kl- onset, forming a closed set.",
       "convention": "kl- onset is reserved for valency-changing operators.",
       "markers": {
-        "klah": "Causative. Adds a causer — the new subject causes the original subject to perform the action.",
+        "kla": "Causative. Adds a causer — the new subject causes the original subject to perform the action.",
         "klet": "Passive. Demotes the agent; the patient becomes the subject.",
         "klīv": "Reflexive. The subject acts upon itself (agent = patient).",
         "klon": "Reciprocal. Subjects act upon each other mutually.",
@@ -64,7 +65,7 @@
       }
     },
     "questions": {
-      "general": "Start sentence with ken. e.g. ken oc̄ un ta kahn? = Did you go?",
+      "general": "Start sentence with ken. e.g. ken oc̄ un ta kan? = Did you go?",
       "specific": {
         "kentan": "When?",
         "kenlok": "Where?",
@@ -72,7 +73,7 @@
         "kenret": "What?",
         "kenlū": "Why?",
         "kenfō": "How?",
-        "example": "kenem ti kahn? = Who will go?"
+        "example": "kenem ti kan? = Who will go?"
       }
     },
     "numbers": {
@@ -93,26 +94,26 @@
     "dūn": [
       {"word": "em", "ipa": "/ɛm/", "english": "person"},
       {"word": "fō", "ipa": "/foʊ/", "english": "manner, way"},
-      {"word": "kahn", "ipa": "/kɑ˞n/", "english": "go, travel, approach"},
+      {"word": "kan", "ipa": "/kan/", "english": "go, travel, approach"},
       {"word": "lok", "ipa": "/lɔːk/", "english": "place"},
       {"word": "lū", "ipa": "/luː/", "english": "reason"},
-      {"word": "nam", "ipa": "/nɑm/", "english": "eat"},
+      {"word": "nam", "ipa": "/nam/", "english": "eat"},
       {"word": "nar", "ipa": "/nɑr/", "english": "billion (10⁹)"},
       {"word": "ret", "ipa": "/rɛt/", "english": "thing"},
-      {"word": "s̄an", "ipa": "/sɑn/", "english": "hundred (10²)"},
-      {"word": "tan", "ipa": "/tɑn/", "english": "time"},
+      {"word": "s̄an", "ipa": "/san/", "english": "hundred (10²)"},
+      {"word": "tan", "ipa": "/tan/", "english": "time"},
       {"word": "tor", "ipa": "/tɔːr/", "english": "thousand (10³)"},
       {"word": "ik", "ipa": "/iːk/", "english": "this (demonstrative)"},
       {"word": "oc̄", "ipa": "/ɒx/", "english": "that (demonstrative)"},
       {"word": "un", "ipa": "/ʌn/", "english": "one, singularity marker, number 1"},
-      {"word": "ma", "ipa": "/mɑ/", "english": "lot, group, plurality marker, quantity"},
-      {"word": "ta", "ipa": "/tɑ/", "english": "past tense marker"},
+      {"word": "ma", "ipa": "/ma/", "english": "lot, group, plurality marker, quantity"},
+      {"word": "ta", "ipa": "/ta/", "english": "past tense marker"},
       {"word": "tō", "ipa": "/toʊ/", "english": "present tense marker (formal)"},
       {"word": "ti", "ipa": "/tiː/", "english": "future tense marker"},
-      {"word": "ná", "ipa": "/njɑ/", "english": "negative polarity/preference marker"},
-      {"word": "ja", "ipa": "/dʒɑ/", "english": "positive polarity/preference marker"},
+      {"word": "ná", "ipa": "/nja/", "english": "negative polarity/preference marker"},
+      {"word": "ja", "ipa": "/dʒa/", "english": "positive polarity/preference marker"},
       {"word": "ken", "ipa": "/kɛn/", "english": "general question marker"},
-      {"word": "klah", "ipa": "/klɑ/", "english": "causative voice marker"},
+      {"word": "kla", "ipa": "/kla/", "english": "causative voice marker"},
       {"word": "klet", "ipa": "/klɛt/", "english": "passive voice marker"},
       {"word": "klīv", "ipa": "/klɪv/", "english": "reflexive voice marker"},
       {"word": "klon", "ipa": "/klɒn/", "english": "reciprocal voice marker"},
@@ -136,13 +137,14 @@
       {"word": "din", "ipa": "/din/", "english": "action, to act, to do, to perform"},
       {"word": "kret", "ipa": null, "english": "essential, priority, important"},
       {"word": "rōk", "ipa": "/roʊk/", "english": "send, transmit, broadcast"},
-      {"word": "kif", "ipa": "/kiːf/", "english": "duration"}
+      {"word": "kif", "ipa": "/kiːf/", "english": "duration"},
+      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."}
     ],
     "dūnma": [
-      {"word": "namlok", "ipa": "/nɑm.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
-      {"word": "namret", "ipa": "/nɑm.rɛt/", "english": "food", "components": ["nam=eat", "ret=thing"]},
-      {"word": "namlokat", "ipa": "/nɑm.lɔː.kɑt/", "english": "eatery, restaurant", "components": ["nam=eat", "lok=place", "at=commercial"]},
-      {"word": "kentan", "ipa": "/ˈkɛn.tɑn/", "english": "When?", "components": ["ken=question", "tan=time"]},
+      {"word": "namlok", "ipa": "/nam.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
+      {"word": "namret", "ipa": "/nam.rɛt/", "english": "food", "components": ["nam=eat", "ret=thing"]},
+      {"word": "namlokat", "ipa": "/nam.lɔː.kat/", "english": "eatery, restaurant", "components": ["nam=eat", "lok=place", "at=commercial"]},
+      {"word": "kentan", "ipa": "/ˈkɛn.tan/", "english": "When?", "components": ["ken=question", "tan=time"]},
       {"word": "kenlok", "ipa": "/ˈkɛn.lɔːk/", "english": "Where?", "components": ["ken=question", "lok=place"]},
       {"word": "kenem", "ipa": "/ˈkɛn.ɛm/", "english": "Who?", "components": ["ken=question", "em=person"]},
       {"word": "kenret", "ipa": "/ˈkɛn.rɛt/", "english": "What?", "components": ["ken=question", "ret=thing"]},
@@ -155,41 +157,43 @@
       {"word": "rifun", "ipa": "/ˈriːf.ʌn/", "english": "21", "components": ["rif=two", "un=one"]},
       {"word": "sollit", "ipa": "/ˈsɔːl.liːt/", "english": "34", "components": ["sol=three", "lit=four"]},
       {"word": "nilpōl", "ipa": "/ˈniːl.poʊl/", "english": "78", "components": ["nil=seven", "pōl=eight"]},
-      {"word": "s̄anrif", "ipa": "/ˈzɑn.riːf/", "english": "200", "components": ["s̄an=hundred", "rif=two"]},
+      {"word": "s̄anrif", "ipa": "/ˈzan.riːf/", "english": "200", "components": ["s̄an=hundred", "rif=two"]},
       {"word": "tormōt", "ipa": "/ˈtɔːr.moʊt/", "english": "5000", "components": ["tor=thousand", "mōt=five"]},
       {"word": "torunūl", "ipa": "/tɔːr.ˈʌ.nuːl/", "english": "10000", "components": ["tor=thousand", "unūl=ten"]},
-      {"word": "torsan", "ipa": "/ˈtɔːr.zɑn/", "english": "100000", "components": ["tor=thousand", "s̄an=hundred"]},
+      {"word": "torsan", "ipa": "/ˈtɔːr.zan/", "english": "100000", "components": ["tor=thousand", "s̄an=hundred"]},
       {"word": "tortor", "ipa": "/ˈtɔːr.tɔːr/", "english": "million (10⁶)", "components": ["tor=thousand", "tor=thousand"]},
       {"word": "nartor", "ipa": "/nɑr.tɔːr/", "english": "trillion (10¹²)", "components": ["nar=billion", "tor=thousand"]},
       {"word": "narnar", "ipa": "/nɑr.nɑr/", "english": "quintillion (10¹⁸)", "components": ["nar=billion", "nar=billion"]},
       {"word": "dūnma", "ipa": "/duːn.ma/", "english": "compound words", "components": ["dūn=base", "ma=group"]},
-      {"word": "vokrenfōma", "ipa": "/vɒk.rɛt.foʊ.mɑ/", "english": "language (Vokrenfōma)", "components": ["vok=speak", "ren=unknown (likely ret spelling error)", "fō=manner", "ma=group"], "note": "ren is not an official dūn; suspected spelling mistake of ret from early language evolution"},
+      {"word": "vokrenfōma", "ipa": "/vɒk.rɛt.foʊ.ma/", "english": "language (Vokrenfōma)", "components": ["vok=speak", "ren=unknown (likely ret spelling error)", "fō=manner", "ma=group"], "note": "ren is not an official dūn; suspected spelling mistake of ret from early language evolution"},
       {"word": "vokret", "ipa": "/vɒk.rɛt/", "english": "word", "components": ["vok=speak", "ret=thing"]},
-      {"word": "jakebem", "ipa": "/dʒɑ.kɛb.ɛm/", "english": "hello", "components": ["ja=good", "keb=meet", "em=person"]},
-      {"word": "nákebem", "ipa": "/njɑ.kɛb.ɛm/", "english": "goodbye", "components": ["ná=bad", "keb=meet", "em=person"]},
+      {"word": "jakebem", "ipa": "/dʒa.kɛb.ɛm/", "english": "hello", "components": ["ja=good", "keb=meet", "em=person"]},
+      {"word": "nákebem", "ipa": "/nja.kɛb.ɛm/", "english": "goodbye", "components": ["ná=bad", "keb=meet", "em=person"]},
       {"word": "voklokret", "ipa": "/vɒk.lɔːk.rɛt/", "english": "stage (speak-place-thing)", "components": ["vok=speak", "lok=place", "ret=thing"]},
       {"word": "lokvoktūk", "ipa": "/lɔːk.vɒk.tuːk/", "english": "place of learning", "components": ["lok=place", "vok=speak", "tūk=knowledge"]},
       {"word": "dūntan", "ipa": "/duːn.tan/", "english": "tense (word-time)", "components": ["dūn=word", "tan=time"]},
       {"word": "dūnfō", "ipa": "/duːn.foʊ/", "english": "grammar (word-manner)", "components": ["dūn=word", "fō=manner"]},
       {"word": "dūndin", "ipa": "/din.duːn/", "english": "noun (word(action))", "components": ["dūn=word", "din=action"]},
-      {"word": "dinja", "ipa": "/din.dʒɑ/", "english": "well done (act-good)", "components": ["din=act", "ja=good"]},
+      {"word": "dinja", "ipa": "/din.dʒa/", "english": "well done (act-good)", "components": ["din=act", "ja=good"]},
       {"word": "retlokdintūk", "ipa": null, "english": "desk (furniture(knowledge))", "components": ["ret=thing", "lok=place", "din=action", "tūk=knowledge"]},
       {"word": "retlokdin", "ipa": null, "english": "furniture (thing-place-action)", "components": ["ret=thing", "lok=place", "din=action"]},
-      {"word": "kahnret", "ipa": null, "english": "retrieve (approach-thing)", "components": ["kahn=approach", "ret=thing"]},
+      {"word": "kanret", "ipa": null, "english": "retrieve (approach-thing)", "components": ["kan=approach", "ret=thing"]},
       {"word": "dintan", "ipa": null, "english": "frequency, occurrence, commonality", "components": ["din=act", "tan=time"]},
       {"word": "jadintan", "ipa": null, "english": "high frequency, commonality (positive)", "components": ["ja=good", "din=act", "tan=time"]},
       {"word": "nádintan", "ipa": null, "english": "low frequency, commonality (negative)", "components": ["ná=bad", "din=act", "tan=time"]},
       {"word": "keblok", "ipa": "/kɛb.lɔːk/", "english": "link, hyperlink", "components": ["keb=join", "lok=place"]},
       {"word": "retvokret", "ipa": "/rɛt.vɒk.rɛt/", "english": "description", "components": ["ret=thing", "vokret=word"]},
-      {"word": "rettan", "ipa": "/rɛt.tɑn/", "english": "experience", "components": ["ret=thing", "tan=time"]},
-      {"word": "jarettan", "ipa": "/dʒɑ.rɛt.tɑn/", "english": "enjoyment", "components": ["ja=good", "rettan=experience"]},
-      {"word": "náma", "ipa": "/njɑ.mɑ/", "english": "small, short, not a lot", "components": ["ná=negative", "ma=lot"]},
-      {"word": "nákif", "ipa": "/njɑ.kiːf/", "english": "instant (no duration)", "components": ["ná=negative", "kif=duration"]},
-      {"word": "kifma", "ipa": "/kiːf.mɑ/", "english": "long duration", "components": ["kif=duration", "ma=lot"]},
-      {"word": "kifnáma", "ipa": "/kiːf.njɑ.mɑ/", "english": "short duration", "components": ["kif=duration", "náma=not a lot"]},
-      {"word": "rōknákif", "ipa": "/roʊk.njɑ.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
-      {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.njɑ.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
-      {"word": "vokrettan", "ipa": "/vɒk.rɛt.tɑn/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]}
+      {"word": "rettan", "ipa": "/rɛt.tan/", "english": "experience", "components": ["ret=thing", "tan=time"]},
+      {"word": "jarettan", "ipa": "/dʒa.rɛt.tan/", "english": "enjoyment", "components": ["ja=good", "rettan=experience"]},
+      {"word": "náma", "ipa": "/nja.ma/", "english": "small, short, not a lot", "components": ["ná=negative", "ma=lot"]},
+      {"word": "nákif", "ipa": "/nja.kiːf/", "english": "instant (no duration)", "components": ["ná=negative", "kif=duration"]},
+      {"word": "kifma", "ipa": "/kiːf.ma/", "english": "long duration", "components": ["kif=duration", "ma=lot"]},
+      {"word": "kifnáma", "ipa": "/kiːf.nja.ma/", "english": "short duration", "components": ["kif=duration", "náma=not a lot"]},
+      {"word": "rōknákif", "ipa": "/roʊk.nja.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
+      {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.nja.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
+      {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]},
+      {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
+      {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
     ]
   },
   "contribution": {

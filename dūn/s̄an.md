@@ -1,5 +1,8 @@
 # Etymology of s̄an
 
+## IPA
+- /san/
+
 ## English Translation
 - hundred (10²)
 

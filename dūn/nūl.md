@@ -1,5 +1,8 @@
 # Etymology of nūl
 
+## IPA
+- /nuːl/
+
 ## English Translation
 - 0
 

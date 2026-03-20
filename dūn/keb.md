@@ -1,5 +1,8 @@
 # Etymology of keb
 
+## IPA
+- /kɛb/
+
 ## English Translation
 - meet/join
 

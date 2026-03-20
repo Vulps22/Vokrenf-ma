@@ -1,5 +1,8 @@
 # Etymology of ik
 
+## IPA
+- /iːk/
+
 ## English Translation
 - this (demonstrative)
 

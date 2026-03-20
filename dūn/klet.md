@@ -1,5 +1,8 @@
 # Etymology of klet
 
+## IPA
+- /klɛt/
+
 ## English Translation
 - Passive voice marker
 

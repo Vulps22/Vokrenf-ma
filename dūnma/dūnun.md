@@ -1,5 +1,8 @@
 # Etymology of dūnun
 
+## IPA
+- /duːn.un/
+
 ## English Translation
 - letter
 

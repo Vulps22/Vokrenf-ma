@@ -1,5 +1,8 @@
 # Etymology of unrif
 
+## IPA
+- /ˈʌn.riːf/
+
 ## English Translation
 - 12
 

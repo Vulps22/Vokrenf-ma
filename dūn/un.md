@@ -1,5 +1,8 @@
 # Etymology of un
 
+## IPA
+- /ʌn/
+
 ## English Translation
 - one (singularity marker, number 1)
 

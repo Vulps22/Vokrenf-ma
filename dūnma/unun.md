@@ -1,5 +1,8 @@
 # Etymology of unun
 
+## IPA
+- /ˈʌn.ʌn/
+
 ## English Translation
 - 11
 

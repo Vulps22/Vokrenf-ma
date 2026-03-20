@@ -1,5 +1,8 @@
 # Etymology of dūnfō
 
+## IPA
+- /duːn.foʊ/
+
 ## English Translation
 - grammar (word-manner)
 

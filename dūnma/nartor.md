@@ -1,5 +1,8 @@
 # Etymology of nartor
 
+## IPA
+- /nɑr.tɔːr/
+
 ## English Translation
 - Trillion (10¹²)
 

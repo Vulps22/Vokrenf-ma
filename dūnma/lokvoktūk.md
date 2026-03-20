@@ -1,5 +1,8 @@
 # Etymology of lokvoktūk
 
+## IPA
+- /lɔːk.vɒk.tuːk/
+
 ## English Translation
 - place of learning (place-speak-knowledge)
 

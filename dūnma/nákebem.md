@@ -1,5 +1,8 @@
 # Etymology of nákebem
 
+## IPA
+- /nja.kɛb.ɛm/
+
 ## English Translation
 - goodbye (bad meeting)
 

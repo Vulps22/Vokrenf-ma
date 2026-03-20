@@ -1,5 +1,8 @@
 # Etymology of sollit
 
+## IPA
+- /ˈsɔːl.liːt/
+
 ## English Translation
 - 34
 

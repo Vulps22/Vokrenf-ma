@@ -1,5 +1,8 @@
 # Etymology of klūt
 
+## IPA
+- /kluːt/
+
 ## English Translation
 - Applicative voice marker
 

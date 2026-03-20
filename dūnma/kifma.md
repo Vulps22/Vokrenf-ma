@@ -1,5 +1,8 @@
 # Etymology of kifma
 
+## IPA
+- /kiːf.ma/
+
 ## English Translation
 - long duration (duration-lot)
 

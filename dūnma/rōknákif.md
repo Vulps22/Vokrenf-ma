@@ -1,5 +1,8 @@
 # Etymology of rōknákif
 
+## IPA
+- /roʊk.nja.kiːf/
+
 ## English Translation
 - telecommunications (instant transmission)
 

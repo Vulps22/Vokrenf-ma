@@ -1,5 +1,8 @@
 # Etymology of kenlok
 
+## IPA
+- /ˈkɛn.lɔːk/
+
 ## English Translation
 - Where?
 

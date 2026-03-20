@@ -1,5 +1,8 @@
 # Etymology of fes
 
+## IPA
+- /fɛz/
+
 ## English Translation
 - 9
 

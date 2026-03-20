@@ -1,5 +1,8 @@
 # Etymology of dintan
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - frequency/occurence/commonality
 

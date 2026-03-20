@@ -1,5 +1,8 @@
 # Etymology of klon
 
+## IPA
+- /klɒn/
+
 ## English Translation
 - Reciprocal voice marker
 

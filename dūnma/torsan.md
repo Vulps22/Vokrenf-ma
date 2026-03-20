@@ -1,5 +1,8 @@
 # Etymology of torsan
 
+## IPA
+- /ˈtɔːr.zan/
+
 ## English Translation
 - 100,000
 

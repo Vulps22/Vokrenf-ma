@@ -1,5 +1,8 @@
 # Etymology of tormōt
 
+## IPA
+- /ˈtɔːr.moʊt/
+
 ## English Translation
 - 5000
 

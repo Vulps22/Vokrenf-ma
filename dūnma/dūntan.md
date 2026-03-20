@@ -1,5 +1,8 @@
 # Etymology of dūntan
 
+## IPA
+- /duːn.tan/
+
 ## English Translation
 - tense (word-time)
 

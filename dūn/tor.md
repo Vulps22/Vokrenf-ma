@@ -1,5 +1,8 @@
 # Etymology of tor
 
+## IPA
+- /tɔːr/
+
 ## English Translation
 - thousand (10³)
 

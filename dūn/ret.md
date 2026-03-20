@@ -1,5 +1,8 @@
 # Etymology of ret
 
+## IPA
+- /rɛt/
+
 ## English Translation
 - thing
 

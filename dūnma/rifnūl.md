@@ -1,5 +1,8 @@
 # Etymology of rifnūl
 
+## IPA
+- /ˈriːf.nuːl/
+
 ## English Translation
 - 20
 

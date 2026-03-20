@@ -1,5 +1,8 @@
 # Etymology of kenfō
 
+## IPA
+- /ˈkɛn.foʊ/
+
 ## English Translation
 - How?
 

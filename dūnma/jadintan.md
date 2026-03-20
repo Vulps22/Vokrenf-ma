@@ -1,5 +1,8 @@
 # Etymology of jadintan
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - commonality(positive)/ high frequency
 
