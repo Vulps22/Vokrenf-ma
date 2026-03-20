@@ -47,6 +47,8 @@
 | [c̄an](./dūn/c̄an.md) | /xan/ | change |
 | [din](./dūn/din.md) | /din/ | action, to act, to do, to perform |
 | [kret](./dūn/kret.md) |  | essential/priority/imortant/ |
+| [rōk](./dūn/rōk.md) | /roʊk/ | send, transmit, broadcast |
+| [kif](./dūn/kif.md) | /kiːf/ | duration |
 
 # dūnma (Compound Words)
 
@@ -96,3 +98,10 @@
 | [retvokret](./dūnma/retvokret.md) | /rɛt.vɒk.rɛt/ | description (thing-word) |
 | [rettan](./dūnma/rettan.md) | /rɛt.tɑn/ | experience (thing-time) |
 | [jarettan](./dūnma/jarettan.md) | /dʒɑ.rɛt.tɑn/ | enjoyment (good-experience) |
+| [náma](./dūnma/náma.md) | /njɑ.mɑ/ | small, short, not a lot (not-much) |
+| [nákif](./dūnma/nákif.md) | /njɑ.kiːf/ | instant (no duration) |
+| [kifma](./dūnma/kifma.md) | /kiːf.mɑ/ | long duration (duration-lot) |
+| [kifnáma](./dūnma/kifnáma.md) | /kiːf.njɑ.mɑ/ | short duration (duration-not-much) |
+| [rōknákif](./dūnma/rōknákif.md) | /roʊk.njɑ.kiːf/ | telecommunications (instant transmission) |
+| [kletrōknákif](./dūnma/kletrōknákif.md) | /klɛt.roʊk.njɑ.kiːf/ | livestream (passively broadcast instantly) |
+| [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tɑn/ | story (spoken thing through time) |

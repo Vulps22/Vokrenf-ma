@@ -134,7 +134,9 @@
       {"word": "dūnun", "ipa": "/duːn.un/", "english": "letter", "note": "listed in dūn table but is dūnma: dūn+un"},
       {"word": "c̄an", "ipa": "/xan/", "english": "change"},
       {"word": "din", "ipa": "/din/", "english": "action, to act, to do, to perform"},
-      {"word": "kret", "ipa": null, "english": "essential, priority, important"}
+      {"word": "kret", "ipa": null, "english": "essential, priority, important"},
+      {"word": "rōk", "ipa": "/roʊk/", "english": "send, transmit, broadcast"},
+      {"word": "kif", "ipa": "/kiːf/", "english": "duration"}
     ],
     "dūnma": [
       {"word": "namlok", "ipa": "/nɑm.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
@@ -180,7 +182,14 @@
       {"word": "keblok", "ipa": "/kɛb.lɔːk/", "english": "link, hyperlink", "components": ["keb=join", "lok=place"]},
       {"word": "retvokret", "ipa": "/rɛt.vɒk.rɛt/", "english": "description", "components": ["ret=thing", "vokret=word"]},
       {"word": "rettan", "ipa": "/rɛt.tɑn/", "english": "experience", "components": ["ret=thing", "tan=time"]},
-      {"word": "jarettan", "ipa": "/dʒɑ.rɛt.tɑn/", "english": "enjoyment", "components": ["ja=good", "rettan=experience"]}
+      {"word": "jarettan", "ipa": "/dʒɑ.rɛt.tɑn/", "english": "enjoyment", "components": ["ja=good", "rettan=experience"]},
+      {"word": "náma", "ipa": "/njɑ.mɑ/", "english": "small, short, not a lot", "components": ["ná=negative", "ma=lot"]},
+      {"word": "nákif", "ipa": "/njɑ.kiːf/", "english": "instant (no duration)", "components": ["ná=negative", "kif=duration"]},
+      {"word": "kifma", "ipa": "/kiːf.mɑ/", "english": "long duration", "components": ["kif=duration", "ma=lot"]},
+      {"word": "kifnáma", "ipa": "/kiːf.njɑ.mɑ/", "english": "short duration", "components": ["kif=duration", "náma=not a lot"]},
+      {"word": "rōknákif", "ipa": "/roʊk.njɑ.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
+      {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.njɑ.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
+      {"word": "vokrettan", "ipa": "/vɒk.rɛt.tɑn/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]}
     ]
   },
   "contribution": {
