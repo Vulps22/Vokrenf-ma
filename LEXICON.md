@@ -9,11 +9,8 @@
 | [lok](./dūn/lok.md) | /lɔːk/ | place |
 | [lū](./dūn/lū.md) | /luː/ | reason |
 | [nam](./dūn/nam.md) | /nam/ | eat (root) |
-| [nar](./dūn/nar.md) | /nɑr/ | billion (10⁹) |
 | [ret](./dūn/ret.md) | /rɛt/ | thing |
-| [s̄an](./dūn/s̄an.md) | /san/ | hundred (10²) |
 | [tan](./dūn/tan.md) | /tan/ | time |
-| [tor](./dūn/tor.md) | /tɔːr/ | thousand (10³) |
 | [ik](./dūn/ik.md) | /iːk/ | this (demonstrative) |
 | [oc̄](./dūn/oc̄.md) | /ɒx/ | that (demonstrative) |
 | [un](./dūn/un.md) | /ʌn/ | one (singularity marker, number 1) |
@@ -29,15 +26,6 @@
 | [klīv](./dūn/klīv.md) | /klɪv/ | Reflexive voice marker |
 | [klon](./dūn/klon.md) | /klɒn/ | Reciprocal voice marker |
 | [klūt](./dūn/klūt.md) | /kluːt/ | Applicative voice marker |
-| [nūl](./dūn/nūl.md) | /nuːl/ | 0 |
-| [rif](./dūn/rif.md) | /riːf/ | 2 |
-| [sol](./dūn/sol.md) | /zɔːl/ | 3 |
-| [lit](./dūn/lit.md) | /liːt/ | 4 |
-| [mōt](./dūn/mōt.md) | /moʊt/ | 5 |
-| [zōl](./dūn/zōl.md) | /ʒoʊl/ | 6 |
-| [nil](./dūn/nil.md) | /niːl/ | 7 |
-| [pōl](./dūn/pōl.md) | /poʊl/ | 8 |
-| [fes](./dūn/fes.md) | /fɛz/ | 9 |
 | [dūn](./dūn/dūn.md) | /duːn/ | base (fundamental word) |
 | [vok](./dūn/vok.md) | /vɒk/ | speak/to make sound |
 | [vid](./dūn/vid.md) | /vid/ | see/observe |
@@ -63,23 +51,10 @@
 | [kenret](./dūnma/kenret.md) | /ˈkɛn.rɛt/ | What? |
 | [kenlū](./dūnma/kenlū.md) | /ˈkɛn.luː/ | Why? |
 | [kenfō](./dūnma/kenfō.md) | /ˈkɛn.foʊ/ | How? |
-| [unūl](./dūnma/unūl.md) | /ˈʌ.nuːl/? | 10 |
-| [unun](./dūnma/unun.md) | /ˈʌn.ʌn/? | 11 |
-| [unrif](./dūnma/unrif.md) | /ˈʌn.riːf/? | 12 |
-| [rifnūl](./dūnma/rifnūl.md) | /ˈriːf.nuːl/? | 20 |
-| [rifun](./dūnma/rifun.md) | /ˈriːf.ʌn/? | 21 |
-| [sollit](./dūnma/sollit.md) | /ˈsɔːl.liːt/? | 34 |
-| [nilpōl](./dūnma/nilpōl.md) | /ˈniːl.poʊl/? | 78 |
-| [s̄anrif](./dūnma/s̄anrif.md) | /ˈzan.riːf/? | 200 |
-| [tormōt](./dūnma/tormōt.md) | /ˈtɔːr.moʊt/? | 5000 |
-| [torunūl](./dūnma/torunūl.md) | /tɔːr.ˈʌ.nuːl/? | 10,000 |
-| [torsan](./dūnma/torsan.md) | /ˈtɔːr.zan/? | 100,000 |
-| [tortor](./dūnma/tortor.md) | /ˈtɔːr.tɔːr/? | Million (10⁶) |
-| [nartor](./dūnma/nartor.md) | /nɑr.tɔːr/? | Trillion (10¹²) |
-| [narnar](./dūnma/narnar.md) | /nɑr.nɑr/? | Quintillion (10¹⁸) |
 | [dūnma](./dūnma/dūnma.md) | /duːn.ma/ | compound words |
 | [vokrenfōma](./dūnma/vokrenfōma.md) | /vɒk.rɛt.foʊ.ma/ | language (Vokrenfōma) |
 | [vokret](./dūnma/vokret.md) | /vɒk.rɛt/ | word |
+| [dūnem](./dūnma/dūnem.md) | /duːn.ɛm/ | name (fundamental-of-person) |
 | [jakebem](./dūnma/jakebem.md) | /dʒa.kɛb.ɛm/ | hello (good meeting) |
 | [nákebem](./dūnma/nákebem.md) | /nja.kɛb.ɛm/ | goodbye (bad meeting) |
 | [voklokret](./dūnma/voklokret.md) | /vɒk.lɔːk.rɛt/ | stage (speak-place-thing) |
@@ -105,3 +80,42 @@
 | [rōknákif](./dūnma/rōknákif.md) | /roʊk.nja.kiːf/ | telecommunications (instant transmission) |
 | [kletrōknákif](./dūnma/kletrōknákif.md) | /klɛt.roʊk.nja.kiːf/ | livestream (passively broadcast instantly) |
 | [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tan/ | story (spoken thing through time) |
+
+# Numbers
+
+## Digits & Scale Words (dūn)
+
+| Vokrenfōma | IPA | Value |
+| :---- | :---- | :---- |
+| [nūl](./dūn/nūl.md) | /nuːl/ | 0 |
+| [un](./dūn/un.md) | /ʌn/ | 1 |
+| [rif](./dūn/rif.md) | /riːf/ | 2 |
+| [sol](./dūn/sol.md) | /zɔːl/ | 3 |
+| [lit](./dūn/lit.md) | /liːt/ | 4 |
+| [mōt](./dūn/mōt.md) | /moʊt/ | 5 |
+| [zōl](./dūn/zōl.md) | /ʒoʊl/ | 6 |
+| [nil](./dūn/nil.md) | /niːl/ | 7 |
+| [pōl](./dūn/pōl.md) | /poʊl/ | 8 |
+| [fes](./dūn/fes.md) | /fɛz/ | 9 |
+| [s̄an](./dūn/s̄an.md) | /san/ | 10² (hundred) |
+| [tor](./dūn/tor.md) | /tɔːr/ | 10³ (thousand) |
+| [nar](./dūn/nar.md) | /nɑr/ | 10⁹ (billion) |
+
+## Compound Numbers (dūnma)
+
+| Vokrenfōma | IPA | Value |
+| :---- | :---- | :---- |
+| [unūl](./dūnma/unūl.md) | /ˈʌ.nuːl/ | 10 |
+| [unun](./dūnma/unun.md) | /ˈʌn.ʌn/ | 11 |
+| [unrif](./dūnma/unrif.md) | /ˈʌn.riːf/ | 12 |
+| [rifnūl](./dūnma/rifnūl.md) | /ˈriːf.nuːl/ | 20 |
+| [rifun](./dūnma/rifun.md) | /ˈriːf.ʌn/ | 21 |
+| [sollit](./dūnma/sollit.md) | /ˈzɔːl.liːt/ | 34 |
+| [nilpōl](./dūnma/nilpōl.md) | /ˈniːl.poʊl/ | 78 |
+| [s̄anrif](./dūnma/s̄anrif.md) | /ˈsan.riːf/ | 200 |
+| [tormōt](./dūnma/tormōt.md) | /ˈtɔːr.moʊt/ | 5,000 |
+| [torunūl](./dūnma/torunūl.md) | /tɔːr.ˈʌ.nuːl/ | 10,000 |
+| [torsan](./dūnma/torsan.md) | /ˈtɔːr.san/ | 100,000 |
+| [tortor](./dūnma/tortor.md) | /ˈtɔːr.tɔːr/ | 10⁶ (million) |
+| [nartor](./dūnma/nartor.md) | /nɑr.tɔːr/ | 10¹² (trillion) |
+| [narnar](./dūnma/narnar.md) | /nɑr.nɑr/ | 10¹⁸ (quintillion) |
