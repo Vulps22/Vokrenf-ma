@@ -137,7 +137,8 @@
       {"word": "din", "ipa": "/din/", "english": "action, to act, to do, to perform"},
       {"word": "kret", "ipa": null, "english": "essential, priority, important"},
       {"word": "rōk", "ipa": "/roʊk/", "english": "send, transmit, broadcast"},
-      {"word": "kif", "ipa": "/kiːf/", "english": "duration"}
+      {"word": "kif", "ipa": "/kiːf/", "english": "duration"},
+      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."}
     ],
     "dūnma": [
       {"word": "namlok", "ipa": "/nam.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
@@ -190,7 +191,9 @@
       {"word": "kifnáma", "ipa": "/kiːf.nja.ma/", "english": "short duration", "components": ["kif=duration", "náma=not a lot"]},
       {"word": "rōknákif", "ipa": "/roʊk.nja.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
       {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.nja.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
-      {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]}
+      {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]},
+      {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
+      {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
     ]
   },
   "contribution": {
