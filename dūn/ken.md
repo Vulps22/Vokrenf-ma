@@ -1,5 +1,8 @@
 # Etymology of ken
 
+## IPA
+- /kɛn/
+
 ## English Translation
 - General question marker
 

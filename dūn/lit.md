@@ -1,5 +1,8 @@
 # Etymology of lit
 
+## IPA
+- /liːt/
+
 ## English Translation
 - 4
 

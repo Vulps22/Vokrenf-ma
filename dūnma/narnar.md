@@ -1,5 +1,8 @@
 # Etymology of narnar
 
+## IPA
+- /nɑr.nɑr/
+
 ## English Translation
 - Quintillion (10¹⁸)
 

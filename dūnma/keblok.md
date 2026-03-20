@@ -1,5 +1,8 @@
 # Etymology of keblok
 
+## IPA
+- /kɛb.lɔːk/
+
 ## English Translation
 - link/hyperlink
 

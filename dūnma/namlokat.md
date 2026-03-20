@@ -1,5 +1,8 @@
 # Etymology of namlokat
 
+## IPA
+- /nam.lɔː.kat/
+
 ## English Translation
 - eatery (eat-place-commercial)
 

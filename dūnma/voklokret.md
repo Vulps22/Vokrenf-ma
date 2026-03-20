@@ -1,5 +1,8 @@
 # Etymology of voklokret
 
+## IPA
+- /vɒk.lɔːk.rɛt/
+
 ## English Translation
 - stage (speak-place-thing)
 

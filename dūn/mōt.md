@@ -1,5 +1,8 @@
 # Etymology of mōt
 
+## IPA
+- /moʊt/
+
 ## English Translation
 - 5
 

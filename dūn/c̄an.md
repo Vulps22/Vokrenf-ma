@@ -1,5 +1,8 @@
 # Etymology of c̄an
 
+## IPA
+- /xan/
+
 ## English Translation
 - change
 

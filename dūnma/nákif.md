@@ -1,5 +1,8 @@
 # Etymology of nákif
 
+## IPA
+- /nja.kiːf/
+
 ## English Translation
 - instant (no duration)
 

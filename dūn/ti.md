@@ -1,5 +1,8 @@
 # Etymology of ti
 
+## IPA
+- /tiː/
+
 ## English Translation
 - Future tense marker
 

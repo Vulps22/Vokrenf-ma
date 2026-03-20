@@ -1,5 +1,8 @@
 # Etymology of lok
 
+## IPA
+- /lɔːk/
+
 ## English Translation
 - place
 

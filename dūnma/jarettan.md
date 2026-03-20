@@ -1,5 +1,8 @@
 # Etymology of jarettan
 
+## IPA
+- /dʒa.rɛt.tan/
+
 ## English Translation
 - enjoyment
 

@@ -1,5 +1,8 @@
 # Etymology of lū
 
+## IPA
+- /luː/
+
 ## English Translation
 - reason
 

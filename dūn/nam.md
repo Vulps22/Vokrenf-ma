@@ -1,5 +1,8 @@
 # Etymology of nam
 
+## IPA
+- /nam/
+
 ## English Translation
 - eat (root)
 

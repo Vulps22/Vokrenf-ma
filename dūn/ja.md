@@ -1,5 +1,8 @@
 # Etymology of ja
 
+## IPA
+- /dʒa/
+
 ## English Translation
 - Positive polarity/preference marker
 

@@ -1,5 +1,8 @@
 # Etymology of tortor
 
+## IPA
+- /ˈtɔːr.tɔːr/
+
 ## English Translation
 - Million (10⁶)
 

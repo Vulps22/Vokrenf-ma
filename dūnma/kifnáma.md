@@ -1,5 +1,8 @@
 # Etymology of kifnáma
 
+## IPA
+- /kiːf.nja.ma/
+
 ## English Translation
 - short duration (duration-not-much)
 

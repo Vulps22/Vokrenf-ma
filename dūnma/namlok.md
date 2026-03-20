@@ -1,5 +1,8 @@
 # Etymology of namlok
 
+## IPA
+- /nam.lɔːk/
+
 ## English Translation
 - kitchen (eat-place)
 

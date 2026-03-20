@@ -1,5 +1,8 @@
 # Etymology of nil
 
+## IPA
+- /niːl/
+
 ## English Translation
 - 7
 

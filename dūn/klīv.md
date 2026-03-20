@@ -1,5 +1,8 @@
 # Etymology of klīv
 
+## IPA
+- /klɪv/
+
 ## English Translation
 - Reflexive voice marker
 

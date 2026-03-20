@@ -1,5 +1,8 @@
 # Etymology of dūn
 
+## IPA
+- /duːn/
+
 ## English Translation
 - base (fundamental word)
 

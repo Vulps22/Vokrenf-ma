@@ -1,5 +1,8 @@
 # Etymology of namret
 
+## IPA
+- /nam.rɛt/
+
 ## English Translation
 - Food (eat-thing)
 

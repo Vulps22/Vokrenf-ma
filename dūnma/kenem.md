@@ -1,5 +1,8 @@
 # Etymology of kenem
 
+## IPA
+- /ˈkɛn.ɛm/
+
 ## English Translation
 - Who?
 

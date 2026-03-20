@@ -1,5 +1,8 @@
 # Etymology of s̄anrif
 
+## IPA
+- /ˈzan.riːf/
+
 ## English Translation
 - 200
 

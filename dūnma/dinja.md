@@ -1,5 +1,8 @@
 # Etymology of dinja
 
+## IPA
+- /din.dʒa/
+
 ## English Translation
 - well done (act-good)
 

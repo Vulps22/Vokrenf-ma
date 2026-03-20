@@ -1,5 +1,8 @@
 # Etymology of sol
 
+## IPA
+- /zɔːl/
+
 ## English Translation
 - 3
 

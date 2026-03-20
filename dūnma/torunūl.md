@@ -1,5 +1,8 @@
 # Etymology of torunūl
 
+## IPA
+- /tɔːr.ˈʌ.nuːl/
+
 ## English Translation
 - 10,000
 

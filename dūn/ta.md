@@ -1,5 +1,8 @@
 # Etymology of ta
 
+## IPA
+- /ta/
+
 ## English Translation
 - Past tense marker
 

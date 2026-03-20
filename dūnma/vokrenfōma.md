@@ -1,5 +1,8 @@
 # Etymology of vokrenfōma
 
+## IPA
+- /vɒk.rɛt.foʊ.ma/
+
 ## English Translation
 - language (Vokrenfōma)
 

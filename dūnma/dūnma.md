@@ -1,5 +1,8 @@
 # Etymology of dūnma
 
+## IPA
+- /duːn.ma/
+
 ## English Translation
 - compound words
 

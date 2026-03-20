@@ -1,5 +1,8 @@
 # Etymology of vid
 
+## IPA
+- /vid/
+
 ## English Translation
 - see/observe
 

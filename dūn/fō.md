@@ -1,5 +1,8 @@
 # Etymology of fō
 
+## IPA
+- /foʊ/
+
 ## English Translation
 - manner, way
 

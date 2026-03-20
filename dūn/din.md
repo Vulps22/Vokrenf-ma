@@ -1,5 +1,8 @@
 # Etymology of din
 
+## IPA
+- /din/
+
 ## English Translation
 - action, to act, to do, to perform
 

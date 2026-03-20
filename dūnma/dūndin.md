@@ -1,5 +1,8 @@
 # Etymology of dūndin
 
+## IPA
+- /din.duːn/
+
 ## English Translation
 - noun (word(action))
 

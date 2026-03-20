@@ -1,5 +1,8 @@
 # Etymology of rōk
 
+## IPA
+- /roʊk/
+
 ## English Translation
 - send, transmit, broadcast
 

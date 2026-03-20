@@ -1,5 +1,8 @@
 # Etymology of náma
 
+## IPA
+- /nja.ma/
+
 ## English Translation
 - small, short, not a lot (not-much)
 

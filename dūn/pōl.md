@@ -1,5 +1,8 @@
 # Etymology of pōl
 
+## IPA
+- /poʊl/
+
 ## English Translation
 - 8
 

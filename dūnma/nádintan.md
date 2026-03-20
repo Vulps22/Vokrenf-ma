@@ -1,5 +1,8 @@
 # Etymology of nádintan
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - commonality(negative)/low frequency
 

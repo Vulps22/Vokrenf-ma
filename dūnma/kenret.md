@@ -1,5 +1,8 @@
 # Etymology of kenret
 
+## IPA
+- /ˈkɛn.rɛt/
+
 ## English Translation
 - What?
 

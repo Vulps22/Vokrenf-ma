@@ -1,5 +1,8 @@
 # Etymology of kanret
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - Retrieve (approach-thing)
 

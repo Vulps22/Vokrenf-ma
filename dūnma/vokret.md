@@ -1,5 +1,8 @@
 # Etymology of vokret
 
+## IPA
+- /vɒk.rɛt/
+
 ## English Translation
 - word
 

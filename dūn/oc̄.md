@@ -1,5 +1,8 @@
 # Etymology of oc̄
 
+## IPA
+- /ɒx/
+
 ## English Translation
 - that (demonstrative)
 

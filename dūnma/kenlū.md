@@ -1,5 +1,8 @@
 # Etymology of kenlū
 
+## IPA
+- /ˈkɛn.luː/
+
 ## English Translation
 - Why?
 

@@ -1,5 +1,8 @@
 # Etymology of ma
 
+## IPA
+- /ma/
+
 ## English Translation
 - lot, group (plurality marker), quantity
 

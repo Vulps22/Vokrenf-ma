@@ -1,5 +1,8 @@
 # Etymology of retlokdintūk
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - Desk (furniture(knowledge))
 

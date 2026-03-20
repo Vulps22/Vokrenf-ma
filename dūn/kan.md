@@ -1,5 +1,8 @@
 # Etymology of kan
 
+## IPA
+- /kan/
+
 ## English Translation
 - go, travel, approach
 

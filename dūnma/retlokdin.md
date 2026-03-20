@@ -1,5 +1,8 @@
 # Etymology of retlokdin
 
+## IPA
+- (not yet assigned)
+
 ## English Translation
 - Furniture (thing-place-action)
 
