@@ -63,5 +63,3 @@ Letters confirmed in use:
 
 * **Vowels:** a, e, i, ī, o, ō, u, ū
 * **Consonants:** b, c̄, d, f, j, k, l, m, n, p, r, s, s̄, t, v, z
-
-Letters from the Latin alphabet not yet used in any official word: c (standalone), g, h, q, w, x, y — and the macron vowel variants ā and ē have not yet been introduced.
