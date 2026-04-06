@@ -1,7 +1,7 @@
-# Etymology of vīk
+# Etymology of vik
 
 ## IPA
-- /vɪk/
+- /viːk/
 
 ## English Translation
 - smell

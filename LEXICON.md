@@ -30,7 +30,7 @@
 | [vok](./dūn/vok.md) | /vɒk/ | speak/to make sound |
 | [vid](./dūn/vid.md) | /vid/ | see/observe |
 | [vek](./dūn/vek.md) | /vɛk/ | hear |
-| [vīk](./dūn/vīk.md) | /vɪk/ | smell |
+| [vik](./dūn/vik.md) | /viːk/ | smell |
 | [vat](./dūn/vat.md) | /vat/ | taste |
 | [von](./dūn/von.md) | /vɒn/ | touch |
 | [keb](./dūn/keb.md) | /kɛb/ | meet/join |
@@ -44,7 +44,7 @@
 | [c̄er](./dūn/c̄er.md) | /xɛr/ | core |
 | [má](./dūn/má.md) | /mja/ | extend, grow |
 | [ne](./dūn/ne.md) | /nɛ/ | end, tip |
-| [jīc̄](./dūn/jīc̄.md) | /dʒɪx/ | up |
+| [jic̄](./dūn/jic̄.md) | /dʒiːx/ | up |
 | [nac̄](./dūn/nac̄.md) | /nax/ | down |
 | [joc̄](./dūn/joc̄.md) | /dʒɒx/ | left |
 | [moc̄](./dūn/moc̄.md) | /mɒx/ | right |
@@ -93,13 +93,13 @@
 | [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tan/ | story (spoken thing through time) |
 | [c̄erem](./dūnma/c̄erem.md) | /xɛr.ɛm/ | torso, body (core-person) |
 | [retne](./dūnma/retne.md) | /rɛt.nɛ/ | extremity, tip (end-thing) |
-| [jīc̄má](./dūnma/jīc̄má.md) | /dʒɪx.mja/ | upper limb, arm (up-extend) |
+| [jic̄má](./dūnma/jic̄má.md) | /dʒiːx.mja/ | upper limb, arm (up-extend) |
 | [nac̄má](./dūnma/nac̄má.md) | /nax.mja/ | lower limb, leg (down-extend) |
 | [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mja/ | left limb, left arm (left-extend) |
 | [moc̄má](./dūnma/moc̄má.md) | /mɒx.mja/ | right limb, right arm (right-extend) |
 | [vidret](./dūnma/vidret.md) | /vid.rɛt/ | eye (see-thing) |
 | [vekret](./dūnma/vekret.md) | /vɛk.rɛt/ | ear (hear-thing) |
-| [vīkret](./dūnma/vīkret.md) | /vɪk.rɛt/ | nose (smell-thing) |
+| [vikret](./dūnma/vikret.md) | /viːk.rɛt/ | nose (smell-thing) |
 | [vatret](./dūnma/vatret.md) | /vat.rɛt/ | mouth, tongue (taste-thing) |
 | [vonret](./dūnma/vonret.md) | /vɒn.rɛt/ | skin (touch-thing) |
 
@@ -149,16 +149,16 @@ Body part expressions are built compositionally from directional dūn, **má** (
 | Phrase | Literal | Meaning |
 | :---- | :---- | :---- |
 | c̄erem | core(person) | torso, body |
-| jīc̄ c̄erem | up body | chest |
+| jic̄ c̄erem | up body | chest |
 | nac̄ c̄erem | down body | abdomen, stomach |
-| jīc̄má c̄erem | up-extend body | neck |
+| jic̄má c̄erem | up-extend body | neck |
 | nac̄má c̄erem | down-extend body | leg |
 | joc̄má c̄erem | left-extend body | left arm |
 | moc̄má c̄erem | right-extend body | right arm |
-| retne jīc̄má c̄erem | end-thing of up-limb | head |
+| retne jic̄má c̄erem | end-thing of up-limb | head |
 | retne nac̄má c̄erem | end-thing of down-limb | foot |
 | ja nac̄má c̄erem | front of down-limb | penis |
-| ja jīc̄má c̄erem | front of up-limb | breast |
+| ja jic̄má c̄erem | front of up-limb | breast |
 
 # Senses
 
@@ -168,6 +168,6 @@ Sense words share a **v-** onset, an emergent phonological grouping alongside **
 | :---- | :---- | :---- |
 | vidret | see(thing) | eye |
 | vekret | hear(thing) | ear |
-| vīkret | smell(thing) | nose |
+| vikret | smell(thing) | nose |
 | vatret | taste(thing) | mouth, tongue |
 | vonret | touch(thing) | skin |

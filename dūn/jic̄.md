@@ -1,7 +1,7 @@
-# Etymology of jīc̄
+# Etymology of jic̄
 
 ## IPA
-- /dʒɪx/
+- /dʒiːx/
 
 ## English Translation
 - up
