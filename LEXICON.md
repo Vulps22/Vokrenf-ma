@@ -18,8 +18,8 @@
 | [ta](./dūn/ta.md) | /ta/ | Past tense marker |
 | [tō](./dūn/tō.md) | /toʊ/ | Present tense marker (formal) |
 | [ti](./dūn/ti.md) | /tiː/ | Future tense marker |
-| [ná](./dūn/ná.md) | /nja/ | Negative polarity/preference marker |
-| [ja](./dūn/ja.md) | /dʒa/ | Positive polarity/preference marker |
+| [ná](./dūn/ná.md) | /nja/ | Negative polarity/preference marker; back (spatial) |
+| [ja](./dūn/ja.md) | /dʒa/ | Positive polarity/preference marker; front (spatial) |
 | [ken](./dūn/ken.md) | /kɛn/ | General question marker |
 | [kla](./dūn/kla.md) | /kla/ | Causative voice marker |
 | [klet](./dūn/klet.md) | /klɛt/ | Passive voice marker |
@@ -29,6 +29,10 @@
 | [dūn](./dūn/dūn.md) | /duːn/ | base (fundamental word) |
 | [vok](./dūn/vok.md) | /vɒk/ | speak/to make sound |
 | [vid](./dūn/vid.md) | /vid/ | see/observe |
+| [vek](./dūn/vek.md) | /vɛk/ | hear |
+| [vik](./dūn/vik.md) | /viːk/ | smell |
+| [vat](./dūn/vat.md) | /vat/ | taste |
+| [von](./dūn/von.md) | /vɒn/ | touch |
 | [keb](./dūn/keb.md) | /kɛb/ | meet/join |
 | [tūk](./dūn/tūk.md) | /tuːk/ | knowledge |
 | [dūnun](./dūn/dūnun.md) | /duːn.un/ | letter |
@@ -37,6 +41,13 @@
 | [kret](./dūn/kret.md) |  | essential/priority/important |
 | [rōk](./dūn/rōk.md) | /roʊk/ | send, transmit, broadcast |
 | [kif](./dūn/kif.md) | /kiːf/ | duration |
+| [c̄er](./dūn/c̄er.md) | /xɛr/ | core |
+| [má](./dūn/má.md) | /mja/ | extend, grow |
+| [ne](./dūn/ne.md) | /nɛ/ | end, tip |
+| [jic̄](./dūn/jic̄.md) | /dʒiːx/ | up |
+| [nac̄](./dūn/nac̄.md) | /nax/ | down |
+| [joc̄](./dūn/joc̄.md) | /dʒɒx/ | left |
+| [moc̄](./dūn/moc̄.md) | /mɒx/ | right |
 
 # dūnma (Compound Words)
 
@@ -80,6 +91,17 @@
 | [rōknákif](./dūnma/rōknákif.md) | /roʊk.nja.kiːf/ | telecommunications (instant transmission) |
 | [kletrōknákif](./dūnma/kletrōknákif.md) | /klɛt.roʊk.nja.kiːf/ | livestream (passively broadcast instantly) |
 | [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tan/ | story (spoken thing through time) |
+| [c̄erem](./dūnma/c̄erem.md) | /xɛr.ɛm/ | torso, body (core-person) |
+| [retne](./dūnma/retne.md) | /rɛt.nɛ/ | extremity, tip (end-thing) |
+| [jic̄má](./dūnma/jic̄má.md) | /dʒiːx.mja/ | upper limb, arm (up-extend) |
+| [nac̄má](./dūnma/nac̄má.md) | /nax.mja/ | lower limb, leg (down-extend) |
+| [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mja/ | left limb, left arm (left-extend) |
+| [moc̄má](./dūnma/moc̄má.md) | /mɒx.mja/ | right limb, right arm (right-extend) |
+| [vidret](./dūnma/vidret.md) | /vid.rɛt/ | eye (see-thing) |
+| [vekret](./dūnma/vekret.md) | /vɛk.rɛt/ | ear (hear-thing) |
+| [vikret](./dūnma/vikret.md) | /viːk.rɛt/ | nose (smell-thing) |
+| [vatret](./dūnma/vatret.md) | /vat.rɛt/ | mouth, tongue (taste-thing) |
+| [vonret](./dūnma/vonret.md) | /vɒn.rɛt/ | skin (touch-thing) |
 
 # Numbers
 
@@ -119,3 +141,33 @@
 | [tortor](./dūnma/tortor.md) | /ˈtɔːr.tɔːr/ | 10⁶ (million) |
 | [nartor](./dūnma/nartor.md) | /nɑr.tɔːr/ | 10¹² (trillion) |
 | [narnar](./dūnma/narnar.md) | /nɑr.nɑr/ | 10¹⁸ (quintillion) |
+
+# Body
+
+Body part expressions are built compositionally from directional dūn, **má** (extend), **c̄erem** (body), and **retne** (extremity). The phrase structure is: `[modifier(s)] c̄erem`.
+
+| Phrase | Literal | Meaning |
+| :---- | :---- | :---- |
+| c̄erem | core(person) | torso, body |
+| jic̄ c̄erem | up body | chest |
+| nac̄ c̄erem | down body | abdomen, stomach |
+| jic̄má c̄erem | up-extend body | neck |
+| nac̄má c̄erem | down-extend body | leg |
+| joc̄má c̄erem | left-extend body | left arm |
+| moc̄má c̄erem | right-extend body | right arm |
+| retne jic̄má c̄erem | end-thing of up-limb | head |
+| retne nac̄má c̄erem | end-thing of down-limb | foot |
+| ja nac̄má c̄erem | front of down-limb | penis |
+| ja jic̄má c̄erem | front of up-limb | breast |
+
+# Senses
+
+Sense words share a **v-** onset, an emergent phonological grouping alongside **vid** (see). Sense organs are formed as **v-sense + ret** (thing).
+
+| Phrase | Literal | Meaning |
+| :---- | :---- | :---- |
+| vidret | see(thing) | eye |
+| vekret | hear(thing) | ear |
+| vikret | smell(thing) | nose |
+| vatret | taste(thing) | mouth, tongue |
+| vonret | touch(thing) | skin |

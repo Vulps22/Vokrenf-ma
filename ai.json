@@ -51,6 +51,7 @@
     },
     "phonology_notes": {
       "a": "Vowel a represents /a/, the open front unrounded vowel — crisp and short, as in Spanish 'casa' or Italian 'pasta'. Not /ɑ/ ('ah') or /æ/ ('cat'). Exception: 'ar' combinations are r-colored toward /ɑr/, as in 'nar'.",
+      "á": "Vowel á represents /ja/ ('ya'). A core vowel present in the language since its earliest words (e.g. ná = /nja/). Distinct from plain a /a/.",
       "ī": "Vowel ī represents /ɪ/, the short 'ih' sound as in English 'did'. Distinct from i /iː/ ('ee'). Introduced with klīv."
     },
     "voice": {
@@ -110,8 +111,8 @@
       {"word": "ta", "ipa": "/ta/", "english": "past tense marker"},
       {"word": "tō", "ipa": "/toʊ/", "english": "present tense marker (formal)"},
       {"word": "ti", "ipa": "/tiː/", "english": "future tense marker"},
-      {"word": "ná", "ipa": "/nja/", "english": "negative polarity/preference marker"},
-      {"word": "ja", "ipa": "/dʒa/", "english": "positive polarity/preference marker"},
+      {"word": "ná", "ipa": "/nja/", "english": "negative polarity/preference marker; back (spatial)"},
+      {"word": "ja", "ipa": "/dʒa/", "english": "positive polarity/preference marker; front (spatial)"},
       {"word": "ken", "ipa": "/kɛn/", "english": "general question marker"},
       {"word": "kla", "ipa": "/kla/", "english": "causative voice marker"},
       {"word": "klet", "ipa": "/klɛt/", "english": "passive voice marker"},
@@ -130,6 +131,10 @@
       {"word": "dūn", "ipa": "/duːn/", "english": "base, fundamental word"},
       {"word": "vok", "ipa": "/vɒk/", "english": "speak, to make sound"},
       {"word": "vid", "ipa": "/vid/", "english": "see, observe"},
+      {"word": "vek", "ipa": "/vɛk/", "english": "hear"},
+      {"word": "vik", "ipa": "/viːk/", "english": "smell"},
+      {"word": "vat", "ipa": "/vat/", "english": "taste"},
+      {"word": "von", "ipa": "/vɒn/", "english": "touch"},
       {"word": "keb", "ipa": "/kɛb/", "english": "meet, join"},
       {"word": "tūk", "ipa": "/tuːk/", "english": "knowledge"},
       {"word": "dūnun", "ipa": "/duːn.un/", "english": "letter", "note": "listed in dūn table but is dūnma: dūn+un"},
@@ -138,7 +143,14 @@
       {"word": "kret", "ipa": null, "english": "essential, priority, important"},
       {"word": "rōk", "ipa": "/roʊk/", "english": "send, transmit, broadcast"},
       {"word": "kif", "ipa": "/kiːf/", "english": "duration"},
-      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."}
+      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."},
+      {"word": "c̄er", "ipa": "/xɛr/", "english": "core"},
+      {"word": "má", "ipa": "/mja/", "english": "extend, grow"},
+      {"word": "ne", "ipa": "/nɛ/", "english": "end, tip"},
+      {"word": "jic̄", "ipa": "/dʒiːx/", "english": "up"},
+      {"word": "nac̄", "ipa": "/nax/", "english": "down"},
+      {"word": "joc̄", "ipa": "/dʒɒx/", "english": "left"},
+      {"word": "moc̄", "ipa": "/mɒx/", "english": "right"}
     ],
     "dūnma": [
       {"word": "namlok", "ipa": "/nam.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
@@ -192,8 +204,50 @@
       {"word": "rōknákif", "ipa": "/roʊk.nja.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
       {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.nja.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
       {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]},
+      {"word": "c̄erem", "ipa": "/xɛr.ɛm/", "english": "torso, body", "components": ["c̄er=core", "em=person"]},
+      {"word": "retne", "ipa": "/rɛt.nɛ/", "english": "extremity, tip", "components": ["ret=thing", "ne=end/tip"]},
+      {"word": "jic̄má", "ipa": "/dʒiːx.mja/", "english": "upper limb, arm", "components": ["jic̄=up", "má=extend"]},
+      {"word": "nac̄má", "ipa": "/nax.mja/", "english": "lower limb, leg", "components": ["nac̄=down", "má=extend"]},
+      {"word": "joc̄má", "ipa": "/dʒɒx.mja/", "english": "left limb, left arm", "components": ["joc̄=left", "má=extend"]},
+      {"word": "moc̄má", "ipa": "/mɒx.mja/", "english": "right limb, right arm", "components": ["moc̄=right", "má=extend"]},
+      {"word": "vidret", "ipa": "/vid.rɛt/", "english": "eye", "components": ["vid=see", "ret=thing"]},
+      {"word": "vekret", "ipa": "/vɛk.rɛt/", "english": "ear", "components": ["vek=hear", "ret=thing"]},
+      {"word": "vikret", "ipa": "/viːk.rɛt/", "english": "nose", "components": ["vik=smell", "ret=thing"]},
+      {"word": "vatret", "ipa": "/vat.rɛt/", "english": "mouth, tongue", "components": ["vat=taste", "ret=thing"]},
+      {"word": "vonret", "ipa": "/vɒn.rɛt/", "english": "skin", "components": ["von=touch", "ret=thing"]},
       {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
       {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
+    ]
+  },
+  "phonological_patterns": {
+    "v_onset_senses": "All sense verbs share a v- onset: vid (see), vek (hear), vik (smell), vat (taste), von (touch). This mirrors the kl- onset for voice markers and the ken- prefix for question words — emergent closed sets in the lexicon.",
+    "kl_onset_voice": "All voice markers share a kl- onset: kla (causative), klet (passive), klīv (reflexive), klon (reciprocal), klūt (applicative).",
+    "ken_questions": "All specific question words begin with ken-: kentan (when), kenlok (where), kenem (who), kenret (what), kenlū (why), kenfō (how)."
+  },
+  "body_phrases": {
+    "description": "Body parts are expressed as compositional phrases built from directional dūn, má (extend), c̄erem (body), and retne (extremity). No single-word vocabulary is required; the meaning is fully transparent from the components.",
+    "examples": [
+      {"phrase": "c̄erem", "literal": "core(person)", "meaning": "torso, body"},
+      {"phrase": "jic̄ c̄erem", "literal": "up body", "meaning": "chest"},
+      {"phrase": "nac̄ c̄erem", "literal": "down body", "meaning": "abdomen, stomach"},
+      {"phrase": "jic̄má c̄erem", "literal": "up-extend body", "meaning": "neck"},
+      {"phrase": "nac̄má c̄erem", "literal": "down-extend body", "meaning": "leg"},
+      {"phrase": "joc̄má c̄erem", "literal": "left-extend body", "meaning": "left arm"},
+      {"phrase": "moc̄má c̄erem", "literal": "right-extend body", "meaning": "right arm"},
+      {"phrase": "retne jic̄má c̄erem", "literal": "end-thing of up-limb", "meaning": "head"},
+      {"phrase": "retne nac̄má c̄erem", "literal": "end-thing of down-limb", "meaning": "foot"},
+      {"phrase": "ja nac̄má c̄erem", "literal": "front of down-limb", "meaning": "penis"},
+      {"phrase": "ja jic̄má c̄erem", "literal": "front of up-limb", "meaning": "breast"}
+    ]
+  },
+  "senses": {
+    "description": "Sense organs are named as v-sense + ret (thing). The v- onset is a closed set.",
+    "examples": [
+      {"phrase": "vidret", "literal": "see(thing)", "meaning": "eye"},
+      {"phrase": "vekret", "literal": "hear(thing)", "meaning": "ear"},
+      {"phrase": "vikret", "literal": "smell(thing)", "meaning": "nose"},
+      {"phrase": "vatret", "literal": "taste(thing)", "meaning": "mouth, tongue"},
+      {"phrase": "vonret", "literal": "touch(thing)", "meaning": "skin"}
     ]
   },
   "contribution": {
