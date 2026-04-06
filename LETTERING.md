@@ -7,7 +7,7 @@ Vokrenfōma uses a Latin-based writing system extended with diacritical marks. T
 | Letter | IPA | Sound (approx.) | Example |
 | :----- | :-- | :-------------- | :------ |
 | a | /a/ | "a" as in Spanish *casa* | nam, ma, ta |
-| á | /ja/ | "ya" as in *yard* | ná, má |
+| á | /ja/ | "ya" as in *yam* | ná, má |
 | e | /ɛ/ | "eh" as in *bed* | em, ret, ken |
 | i | /iː/ | "ee" as in *see* | ik, ti, rif |
 | ī | /ɪ/ | "ih" as in *did* | klīv |
