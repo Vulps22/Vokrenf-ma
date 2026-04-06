@@ -1,7 +1,7 @@
 # Etymology of jīc̄má
 
 ## IPA
-- /dʒɪx.mjɑ/
+- /dʒɪx.mja/
 
 ## English Translation
 - upper limb, arm (up-extend)

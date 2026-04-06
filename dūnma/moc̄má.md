@@ -1,7 +1,7 @@
 # Etymology of moc̄má
 
 ## IPA
-- /mɒx.mjɑ/
+- /mɒx.mja/
 
 ## English Translation
 - right limb, right arm (right-extend)

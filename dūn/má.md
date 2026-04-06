@@ -1,7 +1,7 @@
 # Etymology of má
 
 ## IPA
-- /mjɑ/
+- /mja/
 
 ## English Translation
 - extend, grow
@@ -13,7 +13,7 @@
 - N/A
 
 ## Justification
-- Introduces the new vowel á /ɑ/ (open back unrounded), which produces a palatal glide onset when combined with preceding consonants. Used to form limb/appendage compounds (e.g. jīc̄má = upper limb, nac̄má = lower limb).
+- Uses the vowel á /ja/, which has been in the language since ná. Used to form limb/appendage compounds (e.g. jīc̄má = upper limb, nac̄má = lower limb).
 
 ## History
 - 

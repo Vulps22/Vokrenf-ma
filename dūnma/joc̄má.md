@@ -1,7 +1,7 @@
 # Etymology of joc̄má
 
 ## IPA
-- /dʒɒx.mjɑ/
+- /dʒɒx.mja/
 
 ## English Translation
 - left limb, left arm (left-extend)

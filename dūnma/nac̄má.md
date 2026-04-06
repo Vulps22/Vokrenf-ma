@@ -1,7 +1,7 @@
 # Etymology of nac̄má
 
 ## IPA
-- /nax.mjɑ/
+- /nax.mja/
 
 ## English Translation
 - lower limb, leg (down-extend)

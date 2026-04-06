@@ -51,7 +51,7 @@
     },
     "phonology_notes": {
       "a": "Vowel a represents /a/, the open front unrounded vowel — crisp and short, as in Spanish 'casa' or Italian 'pasta'. Not /ɑ/ ('ah') or /æ/ ('cat'). Exception: 'ar' combinations are r-colored toward /ɑr/, as in 'nar'.",
-      "á": "Vowel á represents /ɑ/, the open back unrounded vowel ('ah' as in 'father'). Distinct from a /a/. When á follows a consonant, it produces a palatal glide onset (e.g. má = /mjɑ/). Introduced with má.",
+      "á": "Vowel á represents /ja/ ('ya'). A core vowel present in the language since its earliest words (e.g. ná = /nja/). Distinct from plain a /a/.",
       "ī": "Vowel ī represents /ɪ/, the short 'ih' sound as in English 'did'. Distinct from i /iː/ ('ee'). Introduced with klīv."
     },
     "voice": {
@@ -141,7 +141,7 @@
       {"word": "kif", "ipa": "/kiːf/", "english": "duration"},
       {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."},
       {"word": "c̄er", "ipa": "/xɛr/", "english": "core"},
-      {"word": "má", "ipa": "/mjɑ/", "english": "extend, grow", "note": "Introduces vowel á /ɑ/ (open back unrounded). Produces palatal glide onset after a consonant."},
+      {"word": "má", "ipa": "/mja/", "english": "extend, grow"},
       {"word": "ne", "ipa": "/nɛ/", "english": "end, tip"},
       {"word": "jīc̄", "ipa": "/dʒɪx/", "english": "up"},
       {"word": "nac̄", "ipa": "/nax/", "english": "down"},
@@ -202,10 +202,10 @@
       {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]},
       {"word": "c̄erem", "ipa": "/xɛr.ɛm/", "english": "torso, body", "components": ["c̄er=core", "em=person"]},
       {"word": "retne", "ipa": "/rɛt.nɛ/", "english": "extremity, tip", "components": ["ret=thing", "ne=end/tip"]},
-      {"word": "jīc̄má", "ipa": "/dʒɪx.mjɑ/", "english": "upper limb, arm", "components": ["jīc̄=up", "má=extend"]},
-      {"word": "nac̄má", "ipa": "/nax.mjɑ/", "english": "lower limb, leg", "components": ["nac̄=down", "má=extend"]},
-      {"word": "joc̄má", "ipa": "/dʒɒx.mjɑ/", "english": "left limb, left arm", "components": ["joc̄=left", "má=extend"]},
-      {"word": "moc̄má", "ipa": "/mɒx.mjɑ/", "english": "right limb, right arm", "components": ["moc̄=right", "má=extend"]},
+      {"word": "jīc̄má", "ipa": "/dʒɪx.mja/", "english": "upper limb, arm", "components": ["jīc̄=up", "má=extend"]},
+      {"word": "nac̄má", "ipa": "/nax.mja/", "english": "lower limb, leg", "components": ["nac̄=down", "má=extend"]},
+      {"word": "joc̄má", "ipa": "/dʒɒx.mja/", "english": "left limb, left arm", "components": ["joc̄=left", "má=extend"]},
+      {"word": "moc̄má", "ipa": "/mɒx.mja/", "english": "right limb, right arm", "components": ["moc̄=right", "má=extend"]},
       {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
       {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
     ]

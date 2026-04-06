@@ -38,7 +38,7 @@
 | [rōk](./dūn/rōk.md) | /roʊk/ | send, transmit, broadcast |
 | [kif](./dūn/kif.md) | /kiːf/ | duration |
 | [c̄er](./dūn/c̄er.md) | /xɛr/ | core |
-| [má](./dūn/má.md) | /mjɑ/ | extend, grow |
+| [má](./dūn/má.md) | /mja/ | extend, grow |
 | [ne](./dūn/ne.md) | /nɛ/ | end, tip |
 | [jīc̄](./dūn/jīc̄.md) | /dʒɪx/ | up |
 | [nac̄](./dūn/nac̄.md) | /nax/ | down |
@@ -89,10 +89,10 @@
 | [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tan/ | story (spoken thing through time) |
 | [c̄erem](./dūnma/c̄erem.md) | /xɛr.ɛm/ | torso, body (core-person) |
 | [retne](./dūnma/retne.md) | /rɛt.nɛ/ | extremity, tip (end-thing) |
-| [jīc̄má](./dūnma/jīc̄má.md) | /dʒɪx.mjɑ/ | upper limb, arm (up-extend) |
-| [nac̄má](./dūnma/nac̄má.md) | /nax.mjɑ/ | lower limb, leg (down-extend) |
-| [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mjɑ/ | left limb, left arm (left-extend) |
-| [moc̄má](./dūnma/moc̄má.md) | /mɒx.mjɑ/ | right limb, right arm (right-extend) |
+| [jīc̄má](./dūnma/jīc̄má.md) | /dʒɪx.mja/ | upper limb, arm (up-extend) |
+| [nac̄má](./dūnma/nac̄má.md) | /nax.mja/ | lower limb, leg (down-extend) |
+| [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mja/ | left limb, left arm (left-extend) |
+| [moc̄má](./dūnma/moc̄má.md) | /mɒx.mja/ | right limb, right arm (right-extend) |
 
 # Numbers
 
