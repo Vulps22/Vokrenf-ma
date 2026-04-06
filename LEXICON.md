@@ -18,8 +18,8 @@
 | [ta](./dūn/ta.md) | /ta/ | Past tense marker |
 | [tō](./dūn/tō.md) | /toʊ/ | Present tense marker (formal) |
 | [ti](./dūn/ti.md) | /tiː/ | Future tense marker |
-| [ná](./dūn/ná.md) | /nja/ | Negative polarity/preference marker |
-| [ja](./dūn/ja.md) | /dʒa/ | Positive polarity/preference marker |
+| [ná](./dūn/ná.md) | /nja/ | Negative polarity/preference marker; back (spatial) |
+| [ja](./dūn/ja.md) | /dʒa/ | Positive polarity/preference marker; front (spatial) |
 | [ken](./dūn/ken.md) | /kɛn/ | General question marker |
 | [kla](./dūn/kla.md) | /kla/ | Causative voice marker |
 | [klet](./dūn/klet.md) | /klɛt/ | Passive voice marker |
@@ -37,6 +37,13 @@
 | [kret](./dūn/kret.md) |  | essential/priority/important |
 | [rōk](./dūn/rōk.md) | /roʊk/ | send, transmit, broadcast |
 | [kif](./dūn/kif.md) | /kiːf/ | duration |
+| [c̄er](./dūn/c̄er.md) | /xɛr/ | core |
+| [má](./dūn/má.md) | /mjɑ/ | extend, grow |
+| [ne](./dūn/ne.md) | /nɛ/ | end, tip |
+| [jīc̄](./dūn/jīc̄.md) | /dʒɪx/ | up |
+| [nac̄](./dūn/nac̄.md) | /nax/ | down |
+| [joc̄](./dūn/joc̄.md) | /dʒɒx/ | left |
+| [moc̄](./dūn/moc̄.md) | /mɒx/ | right |
 
 # dūnma (Compound Words)
 
@@ -80,6 +87,12 @@
 | [rōknákif](./dūnma/rōknákif.md) | /roʊk.nja.kiːf/ | telecommunications (instant transmission) |
 | [kletrōknákif](./dūnma/kletrōknákif.md) | /klɛt.roʊk.nja.kiːf/ | livestream (passively broadcast instantly) |
 | [vokrettan](./dūnma/vokrettan.md) | /vɒk.rɛt.tan/ | story (spoken thing through time) |
+| [c̄erem](./dūnma/c̄erem.md) | /xɛr.ɛm/ | torso, body (core-person) |
+| [retne](./dūnma/retne.md) | /rɛt.nɛ/ | extremity, tip (end-thing) |
+| [jīc̄má](./dūnma/jīc̄má.md) | /dʒɪx.mjɑ/ | upper limb, arm (up-extend) |
+| [nac̄má](./dūnma/nac̄má.md) | /nax.mjɑ/ | lower limb, leg (down-extend) |
+| [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mjɑ/ | left limb, left arm (left-extend) |
+| [moc̄má](./dūnma/moc̄má.md) | /mɒx.mjɑ/ | right limb, right arm (right-extend) |
 
 # Numbers
 
@@ -119,3 +132,21 @@
 | [tortor](./dūnma/tortor.md) | /ˈtɔːr.tɔːr/ | 10⁶ (million) |
 | [nartor](./dūnma/nartor.md) | /nɑr.tɔːr/ | 10¹² (trillion) |
 | [narnar](./dūnma/narnar.md) | /nɑr.nɑr/ | 10¹⁸ (quintillion) |
+
+# Body
+
+Body part expressions are built compositionally from directional dūn, **má** (extend), **c̄erem** (body), and **retne** (extremity). The phrase structure is: `[modifier(s)] c̄erem`.
+
+| Phrase | Literal | Meaning |
+| :---- | :---- | :---- |
+| c̄erem | core(person) | torso, body |
+| jīc̄ c̄erem | up body | chest |
+| nac̄ c̄erem | down body | abdomen, stomach |
+| jīc̄má c̄erem | up-extend body | neck |
+| nac̄má c̄erem | down-extend body | leg |
+| joc̄má c̄erem | left-extend body | left arm |
+| moc̄má c̄erem | right-extend body | right arm |
+| retne jīc̄má c̄erem | end-thing of up-limb | head |
+| retne nac̄má c̄erem | end-thing of down-limb | foot |
+| ja nac̄má c̄erem | front of down-limb | penis |
+| ja jīc̄má c̄erem | front of up-limb | breast |

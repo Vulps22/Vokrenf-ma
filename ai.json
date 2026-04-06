@@ -51,6 +51,7 @@
     },
     "phonology_notes": {
       "a": "Vowel a represents /a/, the open front unrounded vowel — crisp and short, as in Spanish 'casa' or Italian 'pasta'. Not /ɑ/ ('ah') or /æ/ ('cat'). Exception: 'ar' combinations are r-colored toward /ɑr/, as in 'nar'.",
+      "á": "Vowel á represents /ɑ/, the open back unrounded vowel ('ah' as in 'father'). Distinct from a /a/. When á follows a consonant, it produces a palatal glide onset (e.g. má = /mjɑ/). Introduced with má.",
       "ī": "Vowel ī represents /ɪ/, the short 'ih' sound as in English 'did'. Distinct from i /iː/ ('ee'). Introduced with klīv."
     },
     "voice": {
@@ -110,8 +111,8 @@
       {"word": "ta", "ipa": "/ta/", "english": "past tense marker"},
       {"word": "tō", "ipa": "/toʊ/", "english": "present tense marker (formal)"},
       {"word": "ti", "ipa": "/tiː/", "english": "future tense marker"},
-      {"word": "ná", "ipa": "/nja/", "english": "negative polarity/preference marker"},
-      {"word": "ja", "ipa": "/dʒa/", "english": "positive polarity/preference marker"},
+      {"word": "ná", "ipa": "/nja/", "english": "negative polarity/preference marker; back (spatial)"},
+      {"word": "ja", "ipa": "/dʒa/", "english": "positive polarity/preference marker; front (spatial)"},
       {"word": "ken", "ipa": "/kɛn/", "english": "general question marker"},
       {"word": "kla", "ipa": "/kla/", "english": "causative voice marker"},
       {"word": "klet", "ipa": "/klɛt/", "english": "passive voice marker"},
@@ -138,7 +139,14 @@
       {"word": "kret", "ipa": null, "english": "essential, priority, important"},
       {"word": "rōk", "ipa": "/roʊk/", "english": "send, transmit, broadcast"},
       {"word": "kif", "ipa": "/kiːf/", "english": "duration"},
-      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."}
+      {"word": "nōk", "ipa": "/noʊk/", "english": "day", "etymology": "Primitive dūn, evidenced by its implicit role in the compound nilnōk (seven-day = week), which predates formal lexicon entry. Recognised as the base unit of measured time."},
+      {"word": "c̄er", "ipa": "/xɛr/", "english": "core"},
+      {"word": "má", "ipa": "/mjɑ/", "english": "extend, grow", "note": "Introduces vowel á /ɑ/ (open back unrounded). Produces palatal glide onset after a consonant."},
+      {"word": "ne", "ipa": "/nɛ/", "english": "end, tip"},
+      {"word": "jīc̄", "ipa": "/dʒɪx/", "english": "up"},
+      {"word": "nac̄", "ipa": "/nax/", "english": "down"},
+      {"word": "joc̄", "ipa": "/dʒɒx/", "english": "left"},
+      {"word": "moc̄", "ipa": "/mɒx/", "english": "right"}
     ],
     "dūnma": [
       {"word": "namlok", "ipa": "/nam.lɔːk/", "english": "kitchen", "components": ["nam=eat", "lok=place"]},
@@ -192,8 +200,30 @@
       {"word": "rōknákif", "ipa": "/roʊk.nja.kiːf/", "english": "telecommunications (instant transmission)", "components": ["rōk=transmit", "nákif=instant"]},
       {"word": "kletrōknákif", "ipa": "/klɛt.roʊk.nja.kiːf/", "english": "livestream (passively broadcast instantly)", "components": ["klet=passive", "rōk=broadcast", "nákif=instant"]},
       {"word": "vokrettan", "ipa": "/vɒk.rɛt.tan/", "english": "story (spoken thing through time)", "components": ["vok=speak", "ret=thing", "tan=time"]},
+      {"word": "c̄erem", "ipa": "/xɛr.ɛm/", "english": "torso, body", "components": ["c̄er=core", "em=person"]},
+      {"word": "retne", "ipa": "/rɛt.nɛ/", "english": "extremity, tip", "components": ["ret=thing", "ne=end/tip"]},
+      {"word": "jīc̄má", "ipa": "/dʒɪx.mjɑ/", "english": "upper limb, arm", "components": ["jīc̄=up", "má=extend"]},
+      {"word": "nac̄má", "ipa": "/nax.mjɑ/", "english": "lower limb, leg", "components": ["nac̄=down", "má=extend"]},
+      {"word": "joc̄má", "ipa": "/dʒɒx.mjɑ/", "english": "left limb, left arm", "components": ["joc̄=left", "má=extend"]},
+      {"word": "moc̄má", "ipa": "/mɒx.mjɑ/", "english": "right limb, right arm", "components": ["moc̄=right", "má=extend"]},
       {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
       {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
+    ]
+  },
+  "body_phrases": {
+    "description": "Body parts are expressed as compositional phrases built from directional dūn, má (extend), c̄erem (body), and retne (extremity). No single-word vocabulary is required; the meaning is fully transparent from the components.",
+    "examples": [
+      {"phrase": "c̄erem", "literal": "core(person)", "meaning": "torso, body"},
+      {"phrase": "jīc̄ c̄erem", "literal": "up body", "meaning": "chest"},
+      {"phrase": "nac̄ c̄erem", "literal": "down body", "meaning": "abdomen, stomach"},
+      {"phrase": "jīc̄má c̄erem", "literal": "up-extend body", "meaning": "neck"},
+      {"phrase": "nac̄má c̄erem", "literal": "down-extend body", "meaning": "leg"},
+      {"phrase": "joc̄má c̄erem", "literal": "left-extend body", "meaning": "left arm"},
+      {"phrase": "moc̄má c̄erem", "literal": "right-extend body", "meaning": "right arm"},
+      {"phrase": "retne jīc̄má c̄erem", "literal": "end-thing of up-limb", "meaning": "head"},
+      {"phrase": "retne nac̄má c̄erem", "literal": "end-thing of down-limb", "meaning": "foot"},
+      {"phrase": "ja nac̄má c̄erem", "literal": "front of down-limb", "meaning": "penis"},
+      {"phrase": "ja jīc̄má c̄erem", "literal": "front of up-limb", "meaning": "breast"}
     ]
   },
   "contribution": {

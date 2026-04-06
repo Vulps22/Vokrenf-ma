@@ -7,6 +7,7 @@ Vokrenfōma uses a Latin-based writing system extended with diacritical marks. T
 | Letter | IPA | Sound (approx.) | Example |
 | :----- | :-- | :-------------- | :------ |
 | a | /a/ | "a" as in Spanish *casa* | nam, ma, ta |
+| á | /ɑ/ | "ah" as in *father*; produces a palatal glide onset after a consonant | má |
 | e | /ɛ/ | "eh" as in *bed* | em, ret, ken |
 | i | /iː/ | "ee" as in *see* | ik, ti, rif |
 | ī | /ɪ/ | "ih" as in *did* | klīv |
@@ -47,7 +48,7 @@ Vokrenfōma uses two diacritical marks to create variant letters:
 * **c̄** — marks the velar fricative /x/, a sound not represented by any plain Latin letter
 * **s̄** — marks the voiceless /s/, distinguishing it from plain s /z/
 
-**Acute accent (´)** — appears only on the morpheme **ná**. It is part of the lexical identity of that word and is not a productive diacritical mark used elsewhere in the language.
+**Acute accent (´)** — marks the vowel **á** /ɑ/ (open back unrounded), distinct from plain **a** /a/ (open front unrounded). When á follows a consonant it produces a palatal glide onset, e.g. **má** /mjɑ/. The acute accent is also present in **ná** /nja/, where it reflects this same palatal quality.
 
 ## Notes on Specific Letters
 
@@ -61,5 +62,5 @@ Vokrenfōma uses two diacritical marks to create variant letters:
 
 Letters confirmed in use:
 
-* **Vowels:** a, e, i, ī, o, ō, u, ū
+* **Vowels:** a, á, e, i, ī, o, ō, u, ū
 * **Consonants:** b, c̄, d, f, j, k, l, m, n, p, r, s, s̄, t, v, z
