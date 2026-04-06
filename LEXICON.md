@@ -29,6 +29,10 @@
 | [dūn](./dūn/dūn.md) | /duːn/ | base (fundamental word) |
 | [vok](./dūn/vok.md) | /vɒk/ | speak/to make sound |
 | [vid](./dūn/vid.md) | /vid/ | see/observe |
+| [vek](./dūn/vek.md) | /vɛk/ | hear |
+| [vīk](./dūn/vīk.md) | /vɪk/ | smell |
+| [vat](./dūn/vat.md) | /vat/ | taste |
+| [von](./dūn/von.md) | /vɒn/ | touch |
 | [keb](./dūn/keb.md) | /kɛb/ | meet/join |
 | [tūk](./dūn/tūk.md) | /tuːk/ | knowledge |
 | [dūnun](./dūn/dūnun.md) | /duːn.un/ | letter |
@@ -93,6 +97,11 @@
 | [nac̄má](./dūnma/nac̄má.md) | /nax.mja/ | lower limb, leg (down-extend) |
 | [joc̄má](./dūnma/joc̄má.md) | /dʒɒx.mja/ | left limb, left arm (left-extend) |
 | [moc̄má](./dūnma/moc̄má.md) | /mɒx.mja/ | right limb, right arm (right-extend) |
+| [vidret](./dūnma/vidret.md) | /vid.rɛt/ | eye (see-thing) |
+| [vekret](./dūnma/vekret.md) | /vɛk.rɛt/ | ear (hear-thing) |
+| [vīkret](./dūnma/vīkret.md) | /vɪk.rɛt/ | nose (smell-thing) |
+| [vatret](./dūnma/vatret.md) | /vat.rɛt/ | mouth, tongue (taste-thing) |
+| [vonret](./dūnma/vonret.md) | /vɒn.rɛt/ | skin (touch-thing) |
 
 # Numbers
 
@@ -150,3 +159,15 @@ Body part expressions are built compositionally from directional dūn, **má** (
 | retne nac̄má c̄erem | end-thing of down-limb | foot |
 | ja nac̄má c̄erem | front of down-limb | penis |
 | ja jīc̄má c̄erem | front of up-limb | breast |
+
+# Senses
+
+Sense words share a **v-** onset, an emergent phonological grouping alongside **vid** (see). Sense organs are formed as **v-sense + ret** (thing).
+
+| Phrase | Literal | Meaning |
+| :---- | :---- | :---- |
+| vidret | see(thing) | eye |
+| vekret | hear(thing) | ear |
+| vīkret | smell(thing) | nose |
+| vatret | taste(thing) | mouth, tongue |
+| vonret | touch(thing) | skin |

@@ -131,6 +131,10 @@
       {"word": "dūn", "ipa": "/duːn/", "english": "base, fundamental word"},
       {"word": "vok", "ipa": "/vɒk/", "english": "speak, to make sound"},
       {"word": "vid", "ipa": "/vid/", "english": "see, observe"},
+      {"word": "vek", "ipa": "/vɛk/", "english": "hear"},
+      {"word": "vīk", "ipa": "/vɪk/", "english": "smell"},
+      {"word": "vat", "ipa": "/vat/", "english": "taste"},
+      {"word": "von", "ipa": "/vɒn/", "english": "touch"},
       {"word": "keb", "ipa": "/kɛb/", "english": "meet, join"},
       {"word": "tūk", "ipa": "/tuːk/", "english": "knowledge"},
       {"word": "dūnun", "ipa": "/duːn.un/", "english": "letter", "note": "listed in dūn table but is dūnma: dūn+un"},
@@ -206,9 +210,19 @@
       {"word": "nac̄má", "ipa": "/nax.mja/", "english": "lower limb, leg", "components": ["nac̄=down", "má=extend"]},
       {"word": "joc̄má", "ipa": "/dʒɒx.mja/", "english": "left limb, left arm", "components": ["joc̄=left", "má=extend"]},
       {"word": "moc̄má", "ipa": "/mɒx.mja/", "english": "right limb, right arm", "components": ["moc̄=right", "má=extend"]},
+      {"word": "vidret", "ipa": "/vid.rɛt/", "english": "eye", "components": ["vid=see", "ret=thing"]},
+      {"word": "vekret", "ipa": "/vɛk.rɛt/", "english": "ear", "components": ["vek=hear", "ret=thing"]},
+      {"word": "vīkret", "ipa": "/vɪk.rɛt/", "english": "nose", "components": ["vīk=smell", "ret=thing"]},
+      {"word": "vatret", "ipa": "/vat.rɛt/", "english": "mouth, tongue", "components": ["vat=taste", "ret=thing"]},
+      {"word": "vonret", "ipa": "/vɒn.rɛt/", "english": "skin", "components": ["von=touch", "ret=thing"]},
       {"word": "janōk", "ipa": "/dʒa.noʊk/", "english": "good day (greeting or farewell)", "components": ["ja=good", "nōk=day"], "etymology": "Formed from ja (good) + nōk (day). Parallel in structure to jakebem (hello). Used as a standalone social expression; may also appear in the full construction ja oc̄ un janōk ('I wish you a good day')."},
       {"word": "nilnōk", "ipa": "/niːl.noʊk/", "english": "week (seven-day)", "components": ["nil=seven", "nōk=day"], "etymology": "Formed from nil (7) + nōk (day). Predates the formal lexicon entry of nōk; the compound was documented in grammar examples before the base word was officially recognised."}
     ]
+  },
+  "phonological_patterns": {
+    "v_onset_senses": "All sense verbs share a v- onset: vid (see), vek (hear), vīk (smell), vat (taste), von (touch). This mirrors the kl- onset for voice markers and the ken- prefix for question words — emergent closed sets in the lexicon.",
+    "kl_onset_voice": "All voice markers share a kl- onset: kla (causative), klet (passive), klīv (reflexive), klon (reciprocal), klūt (applicative).",
+    "ken_questions": "All specific question words begin with ken-: kentan (when), kenlok (where), kenem (who), kenret (what), kenlū (why), kenfō (how)."
   },
   "body_phrases": {
     "description": "Body parts are expressed as compositional phrases built from directional dūn, má (extend), c̄erem (body), and retne (extremity). No single-word vocabulary is required; the meaning is fully transparent from the components.",
@@ -224,6 +238,16 @@
       {"phrase": "retne nac̄má c̄erem", "literal": "end-thing of down-limb", "meaning": "foot"},
       {"phrase": "ja nac̄má c̄erem", "literal": "front of down-limb", "meaning": "penis"},
       {"phrase": "ja jīc̄má c̄erem", "literal": "front of up-limb", "meaning": "breast"}
+    ]
+  },
+  "senses": {
+    "description": "Sense organs are named as v-sense + ret (thing). The v- onset is a closed set.",
+    "examples": [
+      {"phrase": "vidret", "literal": "see(thing)", "meaning": "eye"},
+      {"phrase": "vekret", "literal": "hear(thing)", "meaning": "ear"},
+      {"phrase": "vīkret", "literal": "smell(thing)", "meaning": "nose"},
+      {"phrase": "vatret", "literal": "taste(thing)", "meaning": "mouth, tongue"},
+      {"phrase": "vonret", "literal": "touch(thing)", "meaning": "skin"}
     ]
   },
   "contribution": {
